@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: d0c71453e488d9443bdbe5d7226a083c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle001
+    100002: Cylinder03
+    100004: Cylinder040
+    100006: Cylinder25
+    100008: Cylinder26
+    100010: Cylinder27
+    100012: Cylinder28
+    100014: Cylinder29
+    100016: Cylinder30
+    100018: Cylinder31
+    100020: Cylinder32
+    100022: Cylinder33
+    100024: Cylinder34
+    100026: Cylinder35
+    100028: Cylinder36
+    100030: Cylinder37
+    100032: //RootNode
+    100034: Group002
+    100036: Group003
+    100038: Group009
+    100040: Group011
+    100042: Group012
+    100044: Line008
+    100046: Line017
+    100048: Line018
+    100050: Line022
+    100052: Line024
+    100054: Line025
+    100056: Plane44
+    100058: Plane45
+    100060: Plane46
+    100062: Plane47
+    100064: Plane48
+    100066: Plane49
+    100068: Plane50
+    100070: Plane51
+    100072: Plane53
+    100074: Plane54
+    100076: Rectangle009
+    100078: Rectangle010
+    100080: Rectangle011
+    100082: Rectangle012
+    100084: Rectangle013
+    100086: Rectangle014
+    100088: Rectangle015
+    100090: Shape004
+    100092: Sphere007
+    100094: Sphere009
+    100096: "\u0431\u0443\u043A\u0435\u0442"
+    100098: "\u043B\u0438\u0441\u0442"
+    100100: "\u043B\u0438\u0441\u044201"
+    100102: "\u0440\u043E\u0437\u0430 09"
+    100104: "\u0440\u043E\u0437\u0430 1"
+    100106: "\u0440\u043E\u0437\u0430 1 1"
+    100108: "\u0440\u043E\u0437\u0430 10"
+    100110: "\u0440\u043E\u0437\u0430 11"
+    100112: "\u0440\u043E\u0437\u0430 12"
+    100114: "\u0440\u043E\u0437\u0430 13"
+    100116: "\u0440\u043E\u0437\u0430 14"
+    100118: "\u0440\u043E\u0437\u0430 16"
+    100120: "\u0440\u043E\u0437\u0430 17"
+    100122: "\u0440\u043E\u0437\u0430 19"
+    100124: "\u0440\u043E\u0437\u0430 20"
+    100126: "\u0440\u043E\u0437\u0430 21"
+    100128: "\u0440\u043E\u0437\u0430 22"
+    100130: "\u0440\u043E\u0437\u0430 24"
+    100132: "\u0440\u043E\u0437\u0430 6"
+    100134: "\u0440\u043E\u0437\u04302"
+    100136: "\u0440\u043E\u0437\u04303"
+    100138: "\u0440\u043E\u0437\u04304"
+    100140: "\u0440\u043E\u0437\u04306"
+    100142: "\u0440\u043E\u0437\u04307"
+    100144: "\u0440\u043E\u0437\u04308"
+    100146: "\u0440\u043E\u0437\u04309"
+    400000: Circle001
+    400002: Cylinder03
+    400004: Cylinder040
+    400006: Cylinder25
+    400008: Cylinder26
+    400010: Cylinder27
+    400012: Cylinder28
+    400014: Cylinder29
+    400016: Cylinder30
+    400018: Cylinder31
+    400020: Cylinder32
+    400022: Cylinder33
+    400024: Cylinder34
+    400026: Cylinder35
+    400028: Cylinder36
+    400030: Cylinder37
+    400032: //RootNode
+    400034: Group002
+    400036: Group003
+    400038: Group009
+    400040: Group011
+    400042: Group012
+    400044: Line008
+    400046: Line017
+    400048: Line018
+    400050: Line022
+    400052: Line024
+    400054: Line025
+    400056: Plane44
+    400058: Plane45
+    400060: Plane46
+    400062: Plane47
+    400064: Plane48
+    400066: Plane49
+    400068: Plane50
+    400070: Plane51
+    400072: Plane53
+    400074: Plane54
+    400076: Rectangle009
+    400078: Rectangle010
+    400080: Rectangle011
+    400082: Rectangle012
+    400084: Rectangle013
+    400086: Rectangle014
+    400088: Rectangle015
+    400090: Shape004
+    400092: Sphere007
+    400094: Sphere009
+    400096: "\u0431\u0443\u043A\u0435\u0442"
+    400098: "\u043B\u0438\u0441\u0442"
+    400100: "\u043B\u0438\u0441\u044201"
+    400102: "\u0440\u043E\u0437\u0430 09"
+    400104: "\u0440\u043E\u0437\u0430 1"
+    400106: "\u0440\u043E\u0437\u0430 1 1"
+    400108: "\u0440\u043E\u0437\u0430 10"
+    400110: "\u0440\u043E\u0437\u0430 11"
+    400112: "\u0440\u043E\u0437\u0430 12"
+    400114: "\u0440\u043E\u0437\u0430 13"
+    400116: "\u0440\u043E\u0437\u0430 14"
+    400118: "\u0440\u043E\u0437\u0430 16"
+    400120: "\u0440\u043E\u0437\u0430 17"
+    400122: "\u0440\u043E\u0437\u0430 19"
+    400124: "\u0440\u043E\u0437\u0430 20"
+    400126: "\u0440\u043E\u0437\u0430 21"
+    400128: "\u0440\u043E\u0437\u0430 22"
+    400130: "\u0440\u043E\u0437\u0430 24"
+    400132: "\u0440\u043E\u0437\u0430 6"
+    400134: "\u0440\u043E\u0437\u04302"
+    400136: "\u0440\u043E\u0437\u04303"
+    400138: "\u0440\u043E\u0437\u04304"
+    400140: "\u0440\u043E\u0437\u04306"
+    400142: "\u0440\u043E\u0437\u04307"
+    400144: "\u0440\u043E\u0437\u04308"
+    400146: "\u0440\u043E\u0437\u04309"
+    2100000: 'Material #289'
+    2100002: 'Material #316'
+    2100004: 'Material #248'
+    2100006: 'Material #287'
+    2100008: 'Material #236'
+    2100010: 'Material #228'
+    2100012: 'Material #2132715344'
+    2100014: 'Material #219'
+    2100016: 'Material #43'
+    2100018: "\u0441\u0442\u0435\u0431\u0435\u043B\u044C \u0440\u043E\u0437\u044B"
+    2100020: "\u04402"
+    2100022: "\u04403"
+    2100024: "\u043B\u0438\u0441\u0442 \u0440\u043E\u0437\u044B 1"
+    2100026: "\u04401"
+    2100028: "\u0440 \u043A\u0440\u0430\u0441\u043D\u0430\u044F"
+    2100030: "\u043B\u0438\u0441\u0442 \u0440\u043E\u0437\u044B"
+    2100032: 'Material #67'
+    2100034: 'Material #224'
+    2100036: 'Material #229'
+    2100038: 'Material #230'
+    2100040: 'Material #223'
+    2100042: 'Material #37'
+    2100044: 'Material #251'
+    2100046: 'Material #317'
+    2100048: 'Material #318'
+    2100050: 'Material #320'
+    2100052: 'Material #319'
+    2300000: Circle001
+    2300002: Cylinder03
+    2300004: Cylinder040
+    2300006: Cylinder25
+    2300008: Cylinder26
+    2300010: Cylinder27
+    2300012: Cylinder28
+    2300014: Cylinder29
+    2300016: Cylinder30
+    2300018: Cylinder31
+    2300020: Cylinder32
+    2300022: Cylinder33
+    2300024: Cylinder34
+    2300026: Cylinder35
+    2300028: Cylinder36
+    2300030: Cylinder37
+    2300032: Line008
+    2300034: Line017
+    2300036: Line018
+    2300038: Line022
+    2300040: Line024
+    2300042: Line025
+    2300044: Plane44
+    2300046: Plane45
+    2300048: Plane46
+    2300050: Plane47
+    2300052: Plane48
+    2300054: Plane49
+    2300056: Plane50
+    2300058: Plane51
+    2300060: Plane53
+    2300062: Plane54
+    2300064: Rectangle009
+    2300066: Rectangle010
+    2300068: Rectangle011
+    2300070: Rectangle012
+    2300072: Rectangle013
+    2300074: Rectangle014
+    2300076: Rectangle015
+    2300078: Shape004
+    2300080: Sphere007
+    2300082: Sphere009
+    2300084: "\u043B\u0438\u0441\u0442"
+    2300086: "\u043B\u0438\u0441\u044201"
+    2300088: "\u0440\u043E\u0437\u0430 09"
+    2300090: "\u0440\u043E\u0437\u0430 1"
+    2300092: "\u0440\u043E\u0437\u0430 10"
+    2300094: "\u0440\u043E\u0437\u0430 11"
+    2300096: "\u0440\u043E\u0437\u0430 12"
+    2300098: "\u0440\u043E\u0437\u0430 13"
+    2300100: "\u0440\u043E\u0437\u0430 14"
+    2300102: "\u0440\u043E\u0437\u0430 16"
+    2300104: "\u0440\u043E\u0437\u0430 17"
+    2300106: "\u0440\u043E\u0437\u0430 19"
+    2300108: "\u0440\u043E\u0437\u0430 20"
+    2300110: "\u0440\u043E\u0437\u0430 21"
+    2300112: "\u0440\u043E\u0437\u0430 22"
+    2300114: "\u0440\u043E\u0437\u0430 24"
+    2300116: "\u0440\u043E\u0437\u0430 6"
+    3300000: Circle001
+    3300002: Cylinder03
+    3300004: Cylinder040
+    3300006: Cylinder25
+    3300008: Cylinder26
+    3300010: Cylinder27
+    3300012: Cylinder28
+    3300014: Cylinder29
+    3300016: Cylinder30
+    3300018: Cylinder31
+    3300020: Cylinder32
+    3300022: Cylinder33
+    3300024: Cylinder34
+    3300026: Cylinder35
+    3300028: Cylinder36
+    3300030: Cylinder37
+    3300032: Line008
+    3300034: Line017
+    3300036: Line018
+    3300038: Line022
+    3300040: Line024
+    3300042: Line025
+    3300044: Plane44
+    3300046: Plane45
+    3300048: Plane46
+    3300050: Plane47
+    3300052: Plane48
+    3300054: Plane49
+    3300056: Plane50
+    3300058: Plane51
+    3300060: Plane53
+    3300062: Plane54
+    3300064: Rectangle009
+    3300066: Rectangle010
+    3300068: Rectangle011
+    3300070: Rectangle012
+    3300072: Rectangle013
+    3300074: Rectangle014
+    3300076: Rectangle015
+    3300078: Shape004
+    3300080: Sphere007
+    3300082: Sphere009
+    3300084: "\u043B\u0438\u0441\u0442"
+    3300086: "\u043B\u0438\u0441\u044201"
+    3300088: "\u0440\u043E\u0437\u0430 09"
+    3300090: "\u0440\u043E\u0437\u0430 1"
+    3300092: "\u0440\u043E\u0437\u0430 10"
+    3300094: "\u0440\u043E\u0437\u0430 11"
+    3300096: "\u0440\u043E\u0437\u0430 12"
+    3300098: "\u0440\u043E\u0437\u0430 13"
+    3300100: "\u0440\u043E\u0437\u0430 14"
+    3300102: "\u0440\u043E\u0437\u0430 16"
+    3300104: "\u0440\u043E\u0437\u0430 17"
+    3300106: "\u0440\u043E\u0437\u0430 19"
+    3300108: "\u0440\u043E\u0437\u0430 20"
+    3300110: "\u0440\u043E\u0437\u0430 21"
+    3300112: "\u0440\u043E\u0437\u0430 22"
+    3300114: "\u0440\u043E\u0437\u0430 24"
+    3300116: "\u0440\u043E\u0437\u0430 6"
+    4300000: Rectangle011
+    4300002: Rectangle009
+    4300004: Rectangle010
+    4300006: Sphere009
+    4300008: Line018
+    4300010: Line025
+    4300012: Line017
+    4300014: Cylinder26
+    4300016: "\u0440\u043E\u0437\u0430 16"
+    4300018: "\u0440\u043E\u0437\u0430 17"
+    4300020: Cylinder31
+    4300022: Cylinder28
+    4300024: "\u0440\u043E\u0437\u0430 21"
+    4300026: Cylinder36
+    4300028: Plane46
+    4300030: "\u0440\u043E\u0437\u0430 10"
+    4300032: Cylinder03
+    4300034: "\u0440\u043E\u0437\u0430 20"
+    4300036: Cylinder27
+    4300038: "\u0440\u043E\u0437\u0430 22"
+    4300040: Plane54
+    4300042: "\u0440\u043E\u0437\u0430 11"
+    4300044: Plane51
+    4300046: Plane45
+    4300048: Plane53
+    4300050: Cylinder37
+    4300052: Cylinder29
+    4300054: "\u0440\u043E\u0437\u0430 19"
+    4300056: "\u0440\u043E\u0437\u0430 12"
+    4300058: Cylinder32
+    4300060: Plane50
+    4300062: Plane49
+    4300064: Plane48
+    4300066: Cylinder35
+    4300068: Cylinder34
+    4300070: Cylinder33
+    4300072: Cylinder30
+    4300074: Cylinder25
+    4300076: Plane47
+    4300078: Plane44
+    4300080: "\u0440\u043E\u0437\u0430 24"
+    4300082: "\u0440\u043E\u0437\u0430 14"
+    4300084: "\u0440\u043E\u0437\u0430 13"
+    4300086: "\u043B\u0438\u0441\u0442"
+    4300088: "\u0440\u043E\u0437\u0430 09"
+    4300090: "\u0440\u043E\u0437\u0430 1"
+    4300092: "\u0440\u043E\u0437\u0430 6"
+    4300094: "\u043B\u0438\u0441\u044201"
+    4300096: Sphere007
+    4300098: Circle001
+    4300100: Shape004
+    4300102: Line024
+    4300104: Cylinder040
+    4300106: Line022
+    4300108: Line008
+    4300110: Rectangle012
+    4300112: Rectangle015
+    4300114: Rectangle013
+    4300116: Rectangle014
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2132715344'
+    second: {fileID: 2100000, guid: c5d70120e0b03434da26d642e43cc7f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #219'
+    second: {fileID: 2100000, guid: 89cf0f0ddf322e64db019d5e2016663a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #223'
+    second: {fileID: 2100000, guid: 666f5656077f0804daed2844945a49f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #224'
+    second: {fileID: 2100000, guid: 2fcb4399ba117364886eb29796b8501f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #228'
+    second: {fileID: 2100000, guid: 9c1f7b9e14d805f428ec2e9d8ed36363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #229'
+    second: {fileID: 2100000, guid: 384b4fd6e8268604d8b6b229f506c0a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #230'
+    second: {fileID: 2100000, guid: ab897399c86f168449fa24dfdbe1cff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #236'
+    second: {fileID: 2100000, guid: 5cc78253dacee8b44bf566ad0d82bfb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #248'
+    second: {fileID: 2100000, guid: fee26af96b0fc8747a1531d97173aa90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #251'
+    second: {fileID: 2100000, guid: 6899cb47064534b4db10ff69194e6663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #287'
+    second: {fileID: 2100000, guid: 38538b263388eae4498505da63abcb96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #289'
+    second: {fileID: 2100000, guid: 1f0c46746b0a2ba4cbe9c18b127fc39b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #316'
+    second: {fileID: 2100000, guid: 1b2abc101cc8f1145bf581ab13045d7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #317'
+    second: {fileID: 2100000, guid: 2fb16beb13e9c5c4cadf9e673e152574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #318'
+    second: {fileID: 2100000, guid: 2c157e2084cc2c64d940c767211dde7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #319'
+    second: {fileID: 2100000, guid: 23e0db121754d2d45a51f968a8c064bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #320'
+    second: {fileID: 2100000, guid: 898a322085eecdc4f891c93f30bf0739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: ce7955f8febb4af4aa40716e18665ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43'
+    second: {fileID: 2100000, guid: 7cf8047b4a699a04dbda46620ea78c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #67'
+    second: {fileID: 2100000, guid: 16c838220bdf569489bac7ebfe301da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u043B\u0438\u0441\u0442 \u0440\u043E\u0437\u044B"
+    second: {fileID: 2100000, guid: 0a5b346648035c447be4a08b1212290b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u043B\u0438\u0441\u0442 \u0440\u043E\u0437\u044B 1"
+    second: {fileID: 2100000, guid: b2b55df8af7762e4480e816257c2b647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0440 \u043A\u0440\u0430\u0441\u043D\u0430\u044F"
+    second: {fileID: 2100000, guid: 367a202d5d97b2044b77b34c757608bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u04401"
+    second: {fileID: 2100000, guid: f84773a52f90e434bb121fa18adead07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u04402"
+    second: {fileID: 2100000, guid: cc8696d4f3585f243a26fa66e9a2f729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u04403"
+    second: {fileID: 2100000, guid: 567b0e73a2b2eb74cb5125b4e4da02dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0441\u0442\u0435\u0431\u0435\u043B\u044C \u0440\u043E\u0437\u044B"
+    second: {fileID: 2100000, guid: e879f3c608656ab43a5b40600770df4c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 201015-acdd2-54367652-m750x740-u1fbe4
+    second: {fileID: 2800000, guid: a74e6f60046e127458b0fe432f51b3d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 806_plintus_pedross_profil_seg100_belyy_gladkiy-600x600
+    second: {fileID: 2800000, guid: 71a82ab23e322c74d99d925345a555f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CMdif_4
+    second: {fileID: 2800000, guid: 85a7e724d0f96134ba7c42ba89a5efd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: H4031865155
+    second: {fileID: 2800000, guid: ddfaf03a33913564ea3585d70717a52f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leave
+    second: {fileID: 2800000, guid: da243ee5f0a1c904984798074c79b960, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leave bump
+    second: {fileID: 2800000, guid: 7fceef6624fe49f489f39da4a6a8b7d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leave op
+    second: {fileID: 2800000, guid: a446a6b7255e1cb4bac3330024b8a9da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leave refl
+    second: {fileID: 2800000, guid: a689791945938a54586c76c9bf408e82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leaves bump
+    second: {fileID: 2800000, guid: 5961bc9b7827aff4497a9ecfa9b93a0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leaves op
+    second: {fileID: 2800000, guid: 3714f403b956a494bad4bbdbf221ee2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leaves refl
+    second: {fileID: 2800000, guid: 1558a51cc866813488f531b07f2193a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leaves0126_3_M
+    second: {fileID: 2800000, guid: 73166c0581d8ab544a5e157fb307bb47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nordal-Photo frame_1b
+    second: {fileID: 2800000, guid: d147f06479310274b92b5749eef3c55e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nordal-Photo frame_1d
+    second: {fileID: 2800000, guid: 7659085a868b7b94db1e8c7799d0c6eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nordal-Photo frame_2b
+    second: {fileID: 2800000, guid: 80227db3fc5236d42bdeb04824c16ace, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nordal-Photo frame_2d
+    second: {fileID: 2800000, guid: da6bd6710f4dab54aa3f3af62c543696, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Photo frame_bamp
+    second: {fileID: 2800000, guid: 5c31a2713a07154409e7571b19bfadb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Print Garden frame_1891
+    second: {fileID: 2800000, guid: 8768acee3be3c314690d2536f1bd52a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Print Garden frame_1892
+    second: {fileID: 2800000, guid: 8d55ea4b2e107874f97f1c75954fefc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Print Garden frame_1893
+    second: {fileID: 2800000, guid: f8eb3e1fbe1dc6542894ec9b3921d0c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Print Garden frame_1894
+    second: {fileID: 2800000, guid: 1644b9ab0b328cf42af57487a50fa43f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: garden-snailhelix-aspersa-helix-hortensis
+    second: {fileID: 2800000, guid: 78c14dc9dd12e654e86b5931a71d8ab4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: konsol-maps4
+    second: {fileID: 2800000, guid: 8dc767f63c210d3499a4fefc7c23da13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043B\u0435\u043F\u0435\u0441\u0442\u043E\u043A 2"
+    second: {fileID: 2800000, guid: 07f221f4fbaac024cb3fb28cc9459055, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043B\u0435\u043F\u0435\u0441\u0442\u043E\u043A 4"
+    second: {fileID: 2800000, guid: b55053dbb95afbe4e97060f0cec04d86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043B\u0435\u043F\u0435\u0441\u0442\u043E\u043A 5"
+    second: {fileID: 2800000, guid: 707cfe51f78f79a4ca15c86738a4b1e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043B\u0435\u043F\u0435\u0441\u0442\u043E\u043A 6"
+    second: {fileID: 2800000, guid: dced1634d3812da44bbd614d116a20ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043B\u0435\u043F\u0435\u0441\u0442\u043E\u043A 7"
+    second: {fileID: 2800000, guid: bf3d508534a11d24c911f083b488d0ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043B\u0435\u043F\u0435\u0441\u0442\u043E\u043A \u0431\u0430\u043C\u043F"
+    second: {fileID: 2800000, guid: 22f8ba51302412a4aa2a2b58fa0af57f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043B\u0435\u043F\u0435\u0441\u0442\u043E\u043A \u0440\u0435\u0444\u043B"
+    second: {fileID: 2800000, guid: c1e03088cfc3c7648aeddee9ed2c19cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0441\u0442\u0435\u0431\u0435\u043B\u044C \u0440\u043E\u0437\u044B"
+    second: {fileID: 2800000, guid: e5d5bc953c217bf4cb142ede8dd0d2a7, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

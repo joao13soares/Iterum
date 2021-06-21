@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: b9860b012189da64da4a923f6f29beb3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder001 1
+    100004: //RootNode
+    100006: Plane004
+    100008: Plane004 1
+    100010: Plane014
+    100012: Plane014 1
+    100014: Plane015
+    100016: Plane015 1
+    100018: Plane018
+    100020: Plane018 1
+    100022: Plane019
+    100024: Plane019 1
+    100026: Plane020
+    100028: Plane020 1
+    100030: Plane021
+    100032: Plane021 1
+    100034: Plane022
+    100036: Plane022 1
+    100038: Plane023
+    100040: Plane023 1
+    100042: Plane024
+    100044: Plane024 1
+    100046: Plane025
+    100048: Plane025 1
+    100050: Shape004
+    100052: Shape004 1
+    100054: Shape005
+    100056: Shape005 1
+    100058: Shape008
+    100060: Shape008 1
+    100062: Shape009
+    100064: Shape009 1
+    100066: Shape010
+    100068: Shape010 1
+    100070: Shape011
+    100072: Shape011 1
+    100074: Shape012
+    100076: Shape012 1
+    100078: Shape013
+    100080: Shape013 1
+    100082: Shape014
+    100084: Shape014 1
+    100086: Shape015
+    100088: Shape015 1
+    400000: Cylinder001
+    400002: Cylinder001 1
+    400004: //RootNode
+    400006: Plane004
+    400008: Plane004 1
+    400010: Plane014
+    400012: Plane014 1
+    400014: Plane015
+    400016: Plane015 1
+    400018: Plane018
+    400020: Plane018 1
+    400022: Plane019
+    400024: Plane019 1
+    400026: Plane020
+    400028: Plane020 1
+    400030: Plane021
+    400032: Plane021 1
+    400034: Plane022
+    400036: Plane022 1
+    400038: Plane023
+    400040: Plane023 1
+    400042: Plane024
+    400044: Plane024 1
+    400046: Plane025
+    400048: Plane025 1
+    400050: Shape004
+    400052: Shape004 1
+    400054: Shape005
+    400056: Shape005 1
+    400058: Shape008
+    400060: Shape008 1
+    400062: Shape009
+    400064: Shape009 1
+    400066: Shape010
+    400068: Shape010 1
+    400070: Shape011
+    400072: Shape011 1
+    400074: Shape012
+    400076: Shape012 1
+    400078: Shape013
+    400080: Shape013 1
+    400082: Shape014
+    400084: Shape014 1
+    400086: Shape015
+    400088: Shape015 1
+    2100000: 'Material #167'
+    2100002: 'Material #164'
+    2100004: 'Material #163'
+    2100006: Soil
+    2100008: 'Material #169'
+    2100010: 'Material #168'
+    2100012: Concrete Floor Cracked
+    2300000: Cylinder001
+    2300002: Cylinder001 1
+    2300004: Plane004
+    2300006: Plane004 1
+    2300008: Plane014
+    2300010: Plane014 1
+    2300012: Plane015
+    2300014: Plane015 1
+    2300016: Plane018
+    2300018: Plane018 1
+    2300020: Plane019
+    2300022: Plane019 1
+    2300024: Plane020
+    2300026: Plane020 1
+    2300028: Plane021
+    2300030: Plane021 1
+    2300032: Plane022
+    2300034: Plane022 1
+    2300036: Plane023
+    2300038: Plane023 1
+    2300040: Plane024
+    2300042: Plane024 1
+    2300044: Plane025
+    2300046: Plane025 1
+    2300048: Shape004
+    2300050: Shape004 1
+    2300052: Shape005
+    2300054: Shape005 1
+    2300056: Shape008
+    2300058: Shape008 1
+    2300060: Shape009
+    2300062: Shape009 1
+    2300064: Shape010
+    2300066: Shape010 1
+    2300068: Shape011
+    2300070: Shape011 1
+    2300072: Shape012
+    2300074: Shape012 1
+    2300076: Shape013
+    2300078: Shape013 1
+    2300080: Shape014
+    2300082: Shape014 1
+    2300084: Shape015
+    2300086: Shape015 1
+    3300000: Cylinder001
+    3300002: Cylinder001 1
+    3300004: Plane004
+    3300006: Plane004 1
+    3300008: Plane014
+    3300010: Plane014 1
+    3300012: Plane015
+    3300014: Plane015 1
+    3300016: Plane018
+    3300018: Plane018 1
+    3300020: Plane019
+    3300022: Plane019 1
+    3300024: Plane020
+    3300026: Plane020 1
+    3300028: Plane021
+    3300030: Plane021 1
+    3300032: Plane022
+    3300034: Plane022 1
+    3300036: Plane023
+    3300038: Plane023 1
+    3300040: Plane024
+    3300042: Plane024 1
+    3300044: Plane025
+    3300046: Plane025 1
+    3300048: Shape004
+    3300050: Shape004 1
+    3300052: Shape005
+    3300054: Shape005 1
+    3300056: Shape008
+    3300058: Shape008 1
+    3300060: Shape009
+    3300062: Shape009 1
+    3300064: Shape010
+    3300066: Shape010 1
+    3300068: Shape011
+    3300070: Shape011 1
+    3300072: Shape012
+    3300074: Shape012 1
+    3300076: Shape013
+    3300078: Shape013 1
+    3300080: Shape014
+    3300082: Shape014 1
+    3300084: Shape015
+    3300086: Shape015 1
+    4300000: Shape009
+    4300002: Shape014
+    4300004: Shape015
+    4300006: Plane021
+    4300008: Shape015
+    4300010: Plane014
+    4300012: Shape005
+    4300014: Plane015
+    4300016: Plane004
+    4300018: Shape004
+    4300020: Plane024
+    4300022: Plane020
+    4300024: Shape013
+    4300026: Plane023
+    4300028: Shape010
+    4300030: Plane023
+    4300032: Shape010
+    4300034: Plane020
+    4300036: Plane024
+    4300038: Shape014
+    4300040: Plane019
+    4300042: Shape009
+    4300044: Shape013
+    4300046: Shape004
+    4300048: Plane019
+    4300050: Plane021
+    4300052: Plane004
+    4300054: Plane014
+    4300056: Shape005
+    4300058: Plane015
+    4300060: Cylinder001
+    4300062: Shape011
+    4300064: Plane025
+    4300066: Cylinder001
+    4300068: Plane018
+    4300070: Plane022
+    4300072: Shape012
+    4300074: Plane022
+    4300076: Shape012
+    4300078: Shape011
+    4300080: Plane025
+    4300082: Shape008
+    4300084: Shape008
+    4300086: Plane018
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

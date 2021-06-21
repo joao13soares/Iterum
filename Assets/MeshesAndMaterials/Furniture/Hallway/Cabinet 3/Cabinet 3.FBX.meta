@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: aaa1e79037e748549ade513d38f6fe98
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: book01
+    100002: book02
+    100004: book03
+    100006: book04
+    100008: book05
+    100010: book06
+    100012: book07
+    100014: book08
+    100016: Box018
+    100018: Box021
+    100020: Box022
+    100022: Box023
+    100024: //RootNode
+    100026: Circle001
+    100028: Circle002
+    100030: Circle003
+    100032: Cylinder001
+    100034: 'leafs '
+    100036: Line003
+    100038: Line241
+    100040: Line243
+    100042: Line244
+    100044: Line245
+    100046: Line246
+    100048: Line249
+    100050: Line252
+    100052: Line253
+    100054: Line254
+    100056: Line258
+    100058: Line259
+    100060: Line260
+    100062: Line261
+    100064: Object003
+    100066: Plane001
+    100068: Plane002
+    100070: Plane003
+    100072: Plane004
+    400000: book01
+    400002: book02
+    400004: book03
+    400006: book04
+    400008: book05
+    400010: book06
+    400012: book07
+    400014: book08
+    400016: Box018
+    400018: Box021
+    400020: Box022
+    400022: Box023
+    400024: //RootNode
+    400026: Circle001
+    400028: Circle002
+    400030: Circle003
+    400032: Cylinder001
+    400034: 'leafs '
+    400036: Line003
+    400038: Line241
+    400040: Line243
+    400042: Line244
+    400044: Line245
+    400046: Line246
+    400048: Line249
+    400050: Line252
+    400052: Line253
+    400054: Line254
+    400056: Line258
+    400058: Line259
+    400060: Line260
+    400062: Line261
+    400064: Object003
+    400066: Plane001
+    400068: Plane002
+    400070: Plane003
+    400072: Plane004
+    2100000: white wood dirt
+    2100002: mirror
+    2100004: striped glass
+    2100006: bronze old dirt
+    2100008: wood dirt dark
+    2100010: wood dark
+    2100012: wood zebrano
+    2100014: book 2
+    2100016: book 3
+    2100018: book 4
+    2100020: book 5
+    2100022: book 6
+    2100024: book 7
+    2100026: book 8
+    2100028: book 12
+    2100030: 17 - matt
+    2100032: vaza 12
+    2100034: bronze old_
+    2100036: gold
+    2100038: 17 - VRay Material
+    2100040: pesok
+    2100042: leaf_green
+    2300000: book01
+    2300002: book02
+    2300004: book03
+    2300006: book04
+    2300008: book05
+    2300010: book06
+    2300012: book07
+    2300014: book08
+    2300016: Box018
+    2300018: Box021
+    2300020: Box022
+    2300022: Box023
+    2300024: Circle001
+    2300026: Circle002
+    2300028: Circle003
+    2300030: Cylinder001
+    2300032: 'leafs '
+    2300034: Line003
+    2300036: Line241
+    2300038: Line243
+    2300040: Line244
+    2300042: Line245
+    2300044: Line246
+    2300046: Line249
+    2300048: Line252
+    2300050: Line253
+    2300052: Line254
+    2300054: Line258
+    2300056: Line259
+    2300058: Line260
+    2300060: Line261
+    2300062: Object003
+    2300064: Plane001
+    2300066: Plane002
+    2300068: Plane003
+    2300070: Plane004
+    3300000: book01
+    3300002: book02
+    3300004: book03
+    3300006: book04
+    3300008: book05
+    3300010: book06
+    3300012: book07
+    3300014: book08
+    3300016: Box018
+    3300018: Box021
+    3300020: Box022
+    3300022: Box023
+    3300024: Circle001
+    3300026: Circle002
+    3300028: Circle003
+    3300030: Cylinder001
+    3300032: 'leafs '
+    3300034: Line003
+    3300036: Line241
+    3300038: Line243
+    3300040: Line244
+    3300042: Line245
+    3300044: Line246
+    3300046: Line249
+    3300048: Line252
+    3300050: Line253
+    3300052: Line254
+    3300054: Line258
+    3300056: Line259
+    3300058: Line260
+    3300060: Line261
+    3300062: Object003
+    3300064: Plane001
+    3300066: Plane002
+    3300068: Plane003
+    3300070: Plane004
+    4300000: Line243
+    4300002: Plane001
+    4300004: Plane002
+    4300006: Plane003
+    4300008: Plane004
+    4300010: Object003
+    4300012: Line241
+    4300014: Line249
+    4300016: Line252
+    4300018: Line253
+    4300020: Line254
+    4300022: Box018
+    4300024: Box021
+    4300026: Box022
+    4300028: Box023
+    4300030: Line244
+    4300032: Line245
+    4300034: Line246
+    4300036: Line258
+    4300038: Line259
+    4300040: Line260
+    4300042: book01
+    4300044: book02
+    4300046: book03
+    4300048: book04
+    4300050: book05
+    4300052: book06
+    4300054: book07
+    4300056: book08
+    4300058: Cylinder001
+    4300060: Line261
+    4300062: Circle001
+    4300064: Circle002
+    4300066: Circle003
+    4300068: Line003
+    4300070: 'leafs '
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - VRay Material
+    second: {fileID: 2100000, guid: 622bf8e3a956f484b97d65adb2dec129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - matt
+    second: {fileID: 2100000, guid: 684bbdbc1da1b3349b33b456710ca5df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book 12
+    second: {fileID: 2100000, guid: ccb98da9355cc184791f1048651db4d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book 2
+    second: {fileID: 2100000, guid: 51e0a82cde38fd74db24f2dfdecb9874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book 3
+    second: {fileID: 2100000, guid: 5476d319864c1754ebe993070b6e7ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book 4
+    second: {fileID: 2100000, guid: ab65fa0b2eac8e245bb00e4b0db1cdb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book 5
+    second: {fileID: 2100000, guid: 2cc8a1a271779804b80f42082790a81c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book 6
+    second: {fileID: 2100000, guid: 9456e671fb0469945a5ba77d6bd591b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book 7
+    second: {fileID: 2100000, guid: e6cba9386ed5848409a41275a565e66c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book 8
+    second: {fileID: 2100000, guid: c8738ded3fe3eb1498989634f65f823f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze old dirt
+    second: {fileID: 2100000, guid: 692913cc4badf9d49a7de9ac9f5a36c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze old_
+    second: {fileID: 2100000, guid: 153311abaf237df4abf1a1466b44e95e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold
+    second: {fileID: 2100000, guid: 5684583a60a1ec64a91090db79a2e563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaf_green
+    second: {fileID: 2100000, guid: b96b9a1ef792fcc48b3b06bc01f20d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: 276e817ec3a15f34b8fbdf9fc00b8166, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pesok
+    second: {fileID: 2100000, guid: 8637af1c09e1541438bd3e8a4a2f0a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: striped glass
+    second: {fileID: 2100000, guid: 4d09bcf11c1a1e64390eb3118ac43d95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vaza 12
+    second: {fileID: 2100000, guid: a52772df730ce984b80c481d37d5c3a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white wood dirt
+    second: {fileID: 2100000, guid: 83e22e20444901a4f9fe7663423b50b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood dark
+    second: {fileID: 2100000, guid: a2029dda2f3696c4298246ad79b036be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood dirt dark
+    second: {fileID: 2100000, guid: 79113968f29829046b1cf02e9201ce78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood zebrano
+    second: {fileID: 2100000, guid: dcc3263d4df47274b874a7118397ebeb, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1f09b
+    second: {fileID: 2800000, guid: 9eac9974a39e72246841a394f5291b19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book_1_1
+    second: {fileID: 2800000, guid: ebbb45b4423594940b92297fb637507e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book_1_10
+    second: {fileID: 2800000, guid: 79adae2e858bd5f45ad3b4e0ff50eb86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book_1_13
+    second: {fileID: 2800000, guid: 430b61618370e5540bd1b9717e0a62d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book_1_5
+    second: {fileID: 2800000, guid: 497b33a780cfdab4a8b89df73dab6844, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book_1_6
+    second: {fileID: 2800000, guid: eb215e8c33bf31949951c7bc305d4833, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book_1_7
+    second: {fileID: 2800000, guid: 6a7ee513cf7deb84c9883fd9c0432c4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book_1_8
+    second: {fileID: 2800000, guid: ba12623d72d88cb4ab2e0e406ef8c2d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book_1_9
+    second: {fileID: 2800000, guid: fe535ba27b675e843b47505193e3decc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: distressed-wood-overlay
+    second: {fileID: 2800000, guid: 510efc310f4a2d044b84ac6313862b27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leave_green
+    second: {fileID: 2800000, guid: 05729a19d2c43f542920fda2571cd02b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leave_green_reflect
+    second: {fileID: 2800000, guid: 4b5b5e9c94e32bc4d87643a943bfdd93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: polosky
+    second: {fileID: 2800000, guid: e78b5955036e5154ba2717eb1e6795c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: post-6832-1149444889
+    second: {fileID: 2800000, guid: ab01caba5bfc5114b870d60cadec0325, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sand_25
+    second: {fileID: 2800000, guid: b2ff6378dcede814b823553ef04d127f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: su_537_r
+    second: {fileID: 2800000, guid: aa8a0f496eb85bf46b3d7dd1f43f4f29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: su_537_w
+    second: {fileID: 2800000, guid: 2def8ec711a052649b558c6e483b7d1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood painted
+    second: {fileID: 2800000, guid: 61a8e385cec83df46890363cf6d62540, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood painted r
+    second: {fileID: 2800000, guid: 36208161f2a539d428e19d1789856358, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

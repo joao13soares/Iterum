@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 449b6dfc203faa14a801b4645473b8ee
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: eat
+    100002: GrowFX22
+    100004: leaf
+    100006: //RootNode
+    100008: plant-011 1
+    100010: put
+    100012: put2
+    400000: eat
+    400002: GrowFX22
+    400004: leaf
+    400006: //RootNode
+    400008: plant-011 1
+    400010: put
+    400012: put2
+    2100000: 'Material #25'
+    2100002: 01 - Defaul345t
+    2100004: 'Material #26'
+    2100006: 'Material #27'
+    2100008: 'Material #38'
+    2100010: 'Material #41'
+    2100012: 'Material #40'
+    2100014: 'Material #39'
+    2300000: eat
+    2300002: GrowFX22
+    2300004: leaf
+    2300006: put
+    2300008: put2
+    3300000: eat
+    3300002: GrowFX22
+    3300004: leaf
+    3300006: put
+    3300008: put2
+    4300000: put
+    4300002: GrowFX22
+    4300004: eat
+    4300006: put2
+    4300008: leaf
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Defaul345t
+    second: {fileID: 2100000, guid: e986206719352564bb799cfdc3361ffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 1ef9c636ff6afb7459132c391a423edf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 06ef2b648546c3e41ac6d08668d13172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 9d6e01e6abb486a4e995e57ee6619a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: a35cce37c0b21184e872a98e7b5813a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: e958214a9cf24af47b564f8bc80ab80b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 12c489f860db2594699f084b67e020e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: 593b97450eef7634a9b66d15081fb4e3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 8662
+    second: {fileID: 2800000, guid: e3b42d213f75716488adece6a5acb4d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stucco_41
+    second: {fileID: 2800000, guid: eac711e62baa2e949b1c41f2e5e861eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t_1
+    second: {fileID: 2800000, guid: 8c6c6107f2bfdfe4ea696cf9b1ea0f6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t_1_1
+    second: {fileID: 2800000, guid: 24ff5b5ab4ef99345976346856e5dc78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t_2
+    second: {fileID: 2800000, guid: 55b4b12f1b7890741a31bd11febc6849, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t_2_1
+    second: {fileID: 2800000, guid: 8f1d5791f574aed48a2df7a3352a729c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t_3
+    second: {fileID: 2800000, guid: fe52e1d49a47c5e45a2df3e51a7e74f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t_3_1
+    second: {fileID: 2800000, guid: ec4a4b0fba2274344b94259fbe21e0f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t_4
+    second: {fileID: 2800000, guid: 81b45e74df3cd8046b4026bee23e9b14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t_4_1
+    second: {fileID: 2800000, guid: 115fd817607f1644e97400cf45f7db94, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

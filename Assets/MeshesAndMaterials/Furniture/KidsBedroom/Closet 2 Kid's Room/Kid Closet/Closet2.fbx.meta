@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: ae8a1293b40406942a1026ad60ae90ad
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box122
+    100002: Box156
+    100004: Box157
+    100006: Box160
+    100008: Box161
+    100010: Box162
+    100012: Box163
+    100014: Box164
+    100016: Box165
+    100018: Box166
+    100020: Box167
+    100022: Box168
+    100024: Box171
+    100026: Box172
+    100028: Box173
+    100030: Box175
+    100032: Box180
+    100034: Box189
+    100036: Box190
+    100038: Box191
+    100040: Box192
+    100042: Chest of Drawers H90 x W96 x D55cm
+    100044: //RootNode
+    100046: Group015
+    100048: Group016
+    100050: Group017
+    100052: Group018
+    100054: Group020
+    100056: Object039
+    100058: Object041
+    100060: Object042
+    100062: Object042 1
+    100064: Object043
+    100066: Object044
+    100068: Sphere007
+    100070: Sphere007 1
+    100072: Sphere008
+    100074: Sphere009
+    100076: Sphere010
+    100078: Sphere011
+    100080: Sphere012
+    100082: Sphere013
+    100084: Sphere014
+    100086: Sphere015
+    100088: Sphere016
+    100090: transform1
+    100092: transform10
+    100094: transform11
+    100096: transform12
+    100098: transform13
+    100100: transform14
+    100102: transform15
+    100104: transform16
+    100106: transform17
+    100108: transform18
+    100110: transform19
+    100112: transform2
+    100114: transform20
+    100116: transform21
+    100118: transform22
+    100120: transform23
+    100122: transform24
+    100124: transform25
+    100126: transform26
+    100128: transform27
+    100130: transform28
+    100132: transform29
+    100134: transform3
+    100136: transform30
+    100138: transform31
+    100140: transform32
+    100142: transform33
+    100144: transform34
+    100146: transform35
+    100148: transform36
+    100150: transform4
+    100152: transform5
+    100154: transform6
+    100156: transform7
+    100158: transform8
+    100160: transform9
+    400000: Box122
+    400002: Box156
+    400004: Box157
+    400006: Box160
+    400008: Box161
+    400010: Box162
+    400012: Box163
+    400014: Box164
+    400016: Box165
+    400018: Box166
+    400020: Box167
+    400022: Box168
+    400024: Box171
+    400026: Box172
+    400028: Box173
+    400030: Box175
+    400032: Box180
+    400034: Box189
+    400036: Box190
+    400038: Box191
+    400040: Box192
+    400042: Chest of Drawers H90 x W96 x D55cm
+    400044: //RootNode
+    400046: Group015
+    400048: Group016
+    400050: Group017
+    400052: Group018
+    400054: Group020
+    400056: Object039
+    400058: Object041
+    400060: Object042
+    400062: Object042 1
+    400064: Object043
+    400066: Object044
+    400068: Sphere007
+    400070: Sphere007 1
+    400072: Sphere008
+    400074: Sphere009
+    400076: Sphere010
+    400078: Sphere011
+    400080: Sphere012
+    400082: Sphere013
+    400084: Sphere014
+    400086: Sphere015
+    400088: Sphere016
+    400090: transform1
+    400092: transform10
+    400094: transform11
+    400096: transform12
+    400098: transform13
+    400100: transform14
+    400102: transform15
+    400104: transform16
+    400106: transform17
+    400108: transform18
+    400110: transform19
+    400112: transform2
+    400114: transform20
+    400116: transform21
+    400118: transform22
+    400120: transform23
+    400122: transform24
+    400124: transform25
+    400126: transform26
+    400128: transform27
+    400130: transform28
+    400132: transform29
+    400134: transform3
+    400136: transform30
+    400138: transform31
+    400140: transform32
+    400142: transform33
+    400144: transform34
+    400146: transform35
+    400148: transform36
+    400150: transform4
+    400152: transform5
+    400154: transform6
+    400156: transform7
+    400158: transform8
+    400160: transform9
+    2100000: standardSurface3
+    2100002: standardSurface2
+    2300000: Object042
+    2300002: Sphere016
+    3300000: Object042
+    3300002: Sphere016
+    4300000: Sphere016
+    4300002: Object042
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

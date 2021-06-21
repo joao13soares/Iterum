@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: ea2328013966bb74e9559005e6815865
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle001
+    100002: Circle002
+    100004: Circle003
+    100006: Circle004
+    100008: Group001
+    100010: //RootNode
+    100012: Particle View 01
+    100014: Polyline
+    100016: Polyline 1
+    100018: Polyline 2
+    100020: Polyline 3
+    100022: Polyline017
+    100024: Polyline028
+    100026: Polyline032
+    100028: Polyline034
+    100030: Polyline035
+    100032: Polyline036
+    100034: Rectangle001
+    100036: Rectangle002
+    100038: Rectangle003
+    100040: Rectangle004
+    100042: Rectangle005
+    100044: Rectangle006
+    100046: Rectangle007
+    100048: Rectangle008
+    100050: Rectangle009
+    100052: Rectangle010
+    100054: Sphere001
+    100056: Sphere002
+    100058: Sphere003
+    100060: Sphere004
+    100062: Sphere005
+    100064: Sphere006
+    100066: Sphere007
+    100068: Sphere008
+    100070: Sphere009
+    100072: Sphere010
+    100074: Sphere011
+    100076: Sphere012
+    100078: Sphere013
+    100080: Sphere014
+    100082: Sphere015
+    100084: Sphere016
+    100086: Sphere017
+    100088: Sphere018
+    100090: Sphere019
+    100092: Sphere020
+    100094: Sphere021
+    100096: Sphere022
+    400000: Circle001
+    400002: Circle002
+    400004: Circle003
+    400006: Circle004
+    400008: Group001
+    400010: //RootNode
+    400012: Particle View 01
+    400014: Polyline
+    400016: Polyline 1
+    400018: Polyline 2
+    400020: Polyline 3
+    400022: Polyline017
+    400024: Polyline028
+    400026: Polyline032
+    400028: Polyline034
+    400030: Polyline035
+    400032: Polyline036
+    400034: Rectangle001
+    400036: Rectangle002
+    400038: Rectangle003
+    400040: Rectangle004
+    400042: Rectangle005
+    400044: Rectangle006
+    400046: Rectangle007
+    400048: Rectangle008
+    400050: Rectangle009
+    400052: Rectangle010
+    400054: Sphere001
+    400056: Sphere002
+    400058: Sphere003
+    400060: Sphere004
+    400062: Sphere005
+    400064: Sphere006
+    400066: Sphere007
+    400068: Sphere008
+    400070: Sphere009
+    400072: Sphere010
+    400074: Sphere011
+    400076: Sphere012
+    400078: Sphere013
+    400080: Sphere014
+    400082: Sphere015
+    400084: Sphere016
+    400086: Sphere017
+    400088: Sphere018
+    400090: Sphere019
+    400092: Sphere020
+    400094: Sphere021
+    400096: Sphere022
+    2100000: aciq
+    2100002: green
+    2100004: metal
+    2100006: tund
+    2100008: white
+    2100010: red
+    2300000: Circle001
+    2300002: Circle002
+    2300004: Circle003
+    2300006: Circle004
+    2300008: Polyline
+    2300010: Polyline 1
+    2300012: Polyline 2
+    2300014: Polyline 3
+    2300016: Polyline017
+    2300018: Polyline028
+    2300020: Polyline032
+    2300022: Polyline034
+    2300024: Polyline035
+    2300026: Polyline036
+    2300028: Rectangle001
+    2300030: Rectangle002
+    2300032: Rectangle003
+    2300034: Rectangle004
+    2300036: Rectangle005
+    2300038: Rectangle006
+    2300040: Rectangle007
+    2300042: Rectangle008
+    2300044: Rectangle009
+    2300046: Rectangle010
+    2300048: Sphere001
+    2300050: Sphere002
+    2300052: Sphere003
+    2300054: Sphere004
+    2300056: Sphere005
+    2300058: Sphere006
+    2300060: Sphere007
+    2300062: Sphere008
+    2300064: Sphere009
+    2300066: Sphere010
+    2300068: Sphere011
+    2300070: Sphere012
+    2300072: Sphere013
+    2300074: Sphere014
+    2300076: Sphere015
+    2300078: Sphere016
+    2300080: Sphere017
+    2300082: Sphere018
+    2300084: Sphere019
+    2300086: Sphere020
+    2300088: Sphere021
+    2300090: Sphere022
+    3300000: Circle001
+    3300002: Circle002
+    3300004: Circle003
+    3300006: Circle004
+    3300008: Polyline
+    3300010: Polyline 1
+    3300012: Polyline 2
+    3300014: Polyline 3
+    3300016: Polyline017
+    3300018: Polyline028
+    3300020: Polyline032
+    3300022: Polyline034
+    3300024: Polyline035
+    3300026: Polyline036
+    3300028: Rectangle001
+    3300030: Rectangle002
+    3300032: Rectangle003
+    3300034: Rectangle004
+    3300036: Rectangle005
+    3300038: Rectangle006
+    3300040: Rectangle007
+    3300042: Rectangle008
+    3300044: Rectangle009
+    3300046: Rectangle010
+    3300048: Sphere001
+    3300050: Sphere002
+    3300052: Sphere003
+    3300054: Sphere004
+    3300056: Sphere005
+    3300058: Sphere006
+    3300060: Sphere007
+    3300062: Sphere008
+    3300064: Sphere009
+    3300066: Sphere010
+    3300068: Sphere011
+    3300070: Sphere012
+    3300072: Sphere013
+    3300074: Sphere014
+    3300076: Sphere015
+    3300078: Sphere016
+    3300080: Sphere017
+    3300082: Sphere018
+    3300084: Sphere019
+    3300086: Sphere020
+    3300088: Sphere021
+    3300090: Sphere022
+    4300000: Polyline035
+    4300002: Polyline036
+    4300004: Sphere021
+    4300006: Sphere020
+    4300008: Sphere019
+    4300010: Sphere018
+    4300012: Sphere017
+    4300014: Sphere016
+    4300016: Sphere015
+    4300018: Sphere014
+    4300020: Sphere013
+    4300022: Sphere012
+    4300024: Sphere011
+    4300026: Sphere010
+    4300028: Sphere009
+    4300030: Sphere008
+    4300032: Sphere007
+    4300034: Sphere006
+    4300036: Sphere005
+    4300038: Sphere004
+    4300040: Sphere003
+    4300042: Sphere002
+    4300044: Sphere001
+    4300046: Rectangle010
+    4300048: Circle002
+    4300050: Circle001
+    4300052: Rectangle009
+    4300054: Rectangle008
+    4300056: Rectangle007
+    4300058: Rectangle006
+    4300060: Circle003
+    4300062: Rectangle004
+    4300064: Rectangle003
+    4300066: Rectangle002
+    4300068: Rectangle001
+    4300070: Polyline
+    4300072: Polyline032
+    4300074: Sphere022
+    4300076: Polyline017
+    4300078: Circle004
+    4300080: Polyline
+    4300082: Rectangle005
+    4300084: Polyline028
+    4300086: Polyline
+    4300088: Polyline034
+    4300090: Polyline
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aciq
+    second: {fileID: 2100000, guid: 75f414fd3ba6a8d4689e4fb9ad920658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green
+    second: {fileID: 2100000, guid: 822acfc766ec631418370136762a8e0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: d65fa48fc4b3c2e42bc74d68fed901b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red
+    second: {fileID: 2100000, guid: 022600868b0a95f4c9ffbe5328b784fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tund
+    second: {fileID: 2100000, guid: f7f7c31d7606ce74a847e9af745fa465, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: bb14ab8c41a74f0448c1e582e3c8512b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 12_1_2_d
+    second: {fileID: 2800000, guid: 9fba04a7f9427d749b075817e2ddfc0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 12_1_2_r
+    second: {fileID: 2800000, guid: 8e196c42a7cffa741b877ca987b10fed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_interior
+    second: {fileID: 2800000, guid: 88e4f0b1315b67541a4df2fc7c9c26fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_interior_bump
+    second: {fileID: 2800000, guid: 8f45cd1a7cff559428ef86ab5c795947, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

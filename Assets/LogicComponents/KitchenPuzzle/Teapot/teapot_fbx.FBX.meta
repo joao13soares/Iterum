@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 9c66985ff5bb1d841bc1f49512299d81
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle001
+    100002: dummy_old
+    100004: Ellipse001
+    100006: Line001
+    100008: Line002
+    100010: Line003
+    100012: Line004
+    100014: Line006
+    100016: Loft001
+    100018: Loft002
+    100020: Sphere001
+    100022: Sphere002
+    100024: Sphere003
+    100026: Sphere004
+    100028: Sphere005
+    100030: Sphere006
+    100032: Sphere007
+    100034: Sphere008
+    100036: //RootNode
+    400000: Circle001
+    400002: dummy_old
+    400004: Ellipse001
+    400006: Line001
+    400008: Line002
+    400010: Line003
+    400012: Line004
+    400014: Line006
+    400016: Loft001
+    400018: Loft002
+    400020: Sphere001
+    400022: Sphere002
+    400024: Sphere003
+    400026: Sphere004
+    400028: Sphere005
+    400030: Sphere006
+    400032: Sphere007
+    400034: Sphere008
+    400036: //RootNode
+    2100000: copper_rough
+    2100002: old_wood
+    2100004: No Name
+    2300000: dummy_old
+    2300002: Line001
+    2300004: Line003
+    2300006: Line006
+    2300008: Loft001
+    2300010: Loft002
+    2300012: Sphere001
+    2300014: Sphere002
+    2300016: Sphere003
+    2300018: Sphere004
+    2300020: Sphere005
+    2300022: Sphere006
+    2300024: Sphere007
+    2300026: Sphere008
+    3300000: dummy_old
+    3300002: Line001
+    3300004: Line003
+    3300006: Line006
+    3300008: Loft001
+    3300010: Loft002
+    3300012: Sphere001
+    3300014: Sphere002
+    3300016: Sphere003
+    3300018: Sphere004
+    3300020: Sphere005
+    3300022: Sphere006
+    3300024: Sphere007
+    3300026: Sphere008
+    4300000: Loft002
+    4300002: Sphere007
+    4300004: Sphere006
+    4300006: Line003
+    4300008: Sphere001
+    4300010: Sphere002
+    4300012: Sphere005
+    4300014: Sphere008
+    4300016: Sphere003
+    4300018: Sphere004
+    4300020: Loft001
+    4300022: Line001
+    4300024: Line006
+    4300026: dummy_old
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 4fbd50df39f13564ba8bdff3a02f4e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: copper_rough
+    second: {fileID: 2100000, guid: 8e104bf236fc8934fb7e8764403a571c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: old_wood
+    second: {fileID: 2100000, guid: 3f6d6fd68fc8edb4c8d00565ec5a7993, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

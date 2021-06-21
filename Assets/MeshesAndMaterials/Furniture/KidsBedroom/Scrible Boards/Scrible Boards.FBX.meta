@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: ce2b3d9609c66e2449c0b13a1c8afbfd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box015
+    100002: Box016
+    100004: Box017
+    100006: Box018
+    100008: Box019
+    100010: Box020
+    100012: Box021
+    100014: Box022
+    100016: Box023
+    100018: Box024
+    100020: Box025
+    100022: Box026
+    100024: Box027
+    100026: Box028
+    100028: Box029
+    100030: Box030
+    100032: Box031
+    100034: Box032
+    100036: Box033
+    100038: Box034
+    100040: Box035
+    100042: Box036
+    100044: Box037
+    100046: Box038
+    100048: Box039
+    100050: Box040
+    100052: Cylinder013
+    100054: Cylinder014
+    100056: Cylinder015
+    100058: Cylinder016
+    100060: Cylinder017
+    100062: Cylinder018
+    100064: Cylinder019
+    100066: Cylinder020
+    100068: Cylinder021
+    100070: Cylinder022
+    100072: Cylinder023
+    100074: Cylinder024
+    100076: Cylinder025
+    100078: Cylinder026
+    100080: Cylinder027
+    100082: Cylinder028
+    100084: Cylinder029
+    100086: Cylinder030
+    100088: Cylinder031
+    100090: Cylinder032
+    100092: Cylinder033
+    100094: Cylinder034
+    100096: Cylinder035
+    100098: Cylinder036
+    100100: Group007
+    100102: Group008
+    100104: Group009
+    100106: Group010
+    100108: Group011
+    100110: Group012
+    100112: Group013
+    100114: Group014
+    100116: Group015
+    100118: Group016
+    100120: Group017
+    100122: Group018
+    100124: mala1
+    100126: mala2
+    100128: Plane004
+    100130: Plane005
+    100132: Plane006
+    100134: Plane007
+    100136: //RootNode
+    100138: Rectangle046
+    100140: Rectangle047
+    100142: Rectangle048
+    100144: Rectangle049
+    100146: Rectangle050
+    100148: Rectangle051
+    100150: Rectangle052
+    100152: Rectangle053
+    100154: Rectangle054
+    100156: Rectangle055
+    100158: Rectangle056
+    100160: Rectangle057
+    100162: Rectangle058
+    100164: Rectangle059
+    100166: Rectangle060
+    100168: Rectangle061
+    400000: Box015
+    400002: Box016
+    400004: Box017
+    400006: Box018
+    400008: Box019
+    400010: Box020
+    400012: Box021
+    400014: Box022
+    400016: Box023
+    400018: Box024
+    400020: Box025
+    400022: Box026
+    400024: Box027
+    400026: Box028
+    400028: Box029
+    400030: Box030
+    400032: Box031
+    400034: Box032
+    400036: Box033
+    400038: Box034
+    400040: Box035
+    400042: Box036
+    400044: Box037
+    400046: Box038
+    400048: Box039
+    400050: Box040
+    400052: Cylinder013
+    400054: Cylinder014
+    400056: Cylinder015
+    400058: Cylinder016
+    400060: Cylinder017
+    400062: Cylinder018
+    400064: Cylinder019
+    400066: Cylinder020
+    400068: Cylinder021
+    400070: Cylinder022
+    400072: Cylinder023
+    400074: Cylinder024
+    400076: Cylinder025
+    400078: Cylinder026
+    400080: Cylinder027
+    400082: Cylinder028
+    400084: Cylinder029
+    400086: Cylinder030
+    400088: Cylinder031
+    400090: Cylinder032
+    400092: Cylinder033
+    400094: Cylinder034
+    400096: Cylinder035
+    400098: Cylinder036
+    400100: Group007
+    400102: Group008
+    400104: Group009
+    400106: Group010
+    400108: Group011
+    400110: Group012
+    400112: Group013
+    400114: Group014
+    400116: Group015
+    400118: Group016
+    400120: Group017
+    400122: Group018
+    400124: mala1
+    400126: mala2
+    400128: Plane004
+    400130: Plane005
+    400132: Plane006
+    400134: Plane007
+    400136: //RootNode
+    400138: Rectangle046
+    400140: Rectangle047
+    400142: Rectangle048
+    400144: Rectangle049
+    400146: Rectangle050
+    400148: Rectangle051
+    400150: Rectangle052
+    400152: Rectangle053
+    400154: Rectangle054
+    400156: Rectangle055
+    400158: Rectangle056
+    400160: Rectangle057
+    400162: Rectangle058
+    400164: Rectangle059
+    400166: Rectangle060
+    400168: Rectangle061
+    2100000: 'Material #701'
+    2100002: 'Material #2d'
+    2100004: 'Material #703'
+    2100006: 'Material #694'
+    2100008: 'Material #3'
+    2100010: 'Material #696'
+    2100012: 'Material #705'
+    2100014: 'Material #12'
+    2100016: 'Material #706'
+    2100018: "Material #12\u0438\u0442"
+    2100020: "Material #12\u0438"
+    2300000: Box015
+    2300002: Box016
+    2300004: Box017
+    2300006: Box018
+    2300008: Box019
+    2300010: Box020
+    2300012: Box021
+    2300014: Box022
+    2300016: Box023
+    2300018: Box024
+    2300020: Box025
+    2300022: Box026
+    2300024: Box027
+    2300026: Box028
+    2300028: Box029
+    2300030: Box030
+    2300032: Box031
+    2300034: Box032
+    2300036: Box033
+    2300038: Box034
+    2300040: Box035
+    2300042: Box036
+    2300044: Box037
+    2300046: Box038
+    2300048: Box039
+    2300050: Box040
+    2300052: Cylinder013
+    2300054: Cylinder014
+    2300056: Cylinder015
+    2300058: Cylinder016
+    2300060: Cylinder017
+    2300062: Cylinder018
+    2300064: Cylinder019
+    2300066: Cylinder020
+    2300068: Cylinder021
+    2300070: Cylinder022
+    2300072: Cylinder023
+    2300074: Cylinder024
+    2300076: Cylinder025
+    2300078: Cylinder026
+    2300080: Cylinder027
+    2300082: Cylinder028
+    2300084: Cylinder029
+    2300086: Cylinder030
+    2300088: Cylinder031
+    2300090: Cylinder032
+    2300092: Cylinder033
+    2300094: Cylinder034
+    2300096: Cylinder035
+    2300098: Cylinder036
+    2300100: Plane004
+    2300102: Plane005
+    2300104: Plane006
+    2300106: Plane007
+    2300108: Rectangle046
+    2300110: Rectangle047
+    2300112: Rectangle048
+    2300114: Rectangle049
+    2300116: Rectangle050
+    2300118: Rectangle051
+    2300120: Rectangle052
+    2300122: Rectangle053
+    2300124: Rectangle054
+    2300126: Rectangle055
+    2300128: Rectangle056
+    2300130: Rectangle057
+    2300132: Rectangle058
+    2300134: Rectangle059
+    2300136: Rectangle060
+    2300138: Rectangle061
+    3300000: Box015
+    3300002: Box016
+    3300004: Box017
+    3300006: Box018
+    3300008: Box019
+    3300010: Box020
+    3300012: Box021
+    3300014: Box022
+    3300016: Box023
+    3300018: Box024
+    3300020: Box025
+    3300022: Box026
+    3300024: Box027
+    3300026: Box028
+    3300028: Box029
+    3300030: Box030
+    3300032: Box031
+    3300034: Box032
+    3300036: Box033
+    3300038: Box034
+    3300040: Box035
+    3300042: Box036
+    3300044: Box037
+    3300046: Box038
+    3300048: Box039
+    3300050: Box040
+    3300052: Cylinder013
+    3300054: Cylinder014
+    3300056: Cylinder015
+    3300058: Cylinder016
+    3300060: Cylinder017
+    3300062: Cylinder018
+    3300064: Cylinder019
+    3300066: Cylinder020
+    3300068: Cylinder021
+    3300070: Cylinder022
+    3300072: Cylinder023
+    3300074: Cylinder024
+    3300076: Cylinder025
+    3300078: Cylinder026
+    3300080: Cylinder027
+    3300082: Cylinder028
+    3300084: Cylinder029
+    3300086: Cylinder030
+    3300088: Cylinder031
+    3300090: Cylinder032
+    3300092: Cylinder033
+    3300094: Cylinder034
+    3300096: Cylinder035
+    3300098: Cylinder036
+    3300100: Plane004
+    3300102: Plane005
+    3300104: Plane006
+    3300106: Plane007
+    3300108: Rectangle046
+    3300110: Rectangle047
+    3300112: Rectangle048
+    3300114: Rectangle049
+    3300116: Rectangle050
+    3300118: Rectangle051
+    3300120: Rectangle052
+    3300122: Rectangle053
+    3300124: Rectangle054
+    3300126: Rectangle055
+    3300128: Rectangle056
+    3300130: Rectangle057
+    3300132: Rectangle058
+    3300134: Rectangle059
+    3300136: Rectangle060
+    3300138: Rectangle061
+    4300000: Cylinder013
+    4300002: Box015
+    4300004: Cylinder023
+    4300006: Box017
+    4300008: Box018
+    4300010: Plane004
+    4300012: Box019
+    4300014: Box020
+    4300016: Plane005
+    4300018: Box021
+    4300020: Box022
+    4300022: Rectangle046
+    4300024: Cylinder014
+    4300026: Rectangle047
+    4300028: Rectangle048
+    4300030: Rectangle049
+    4300032: Cylinder015
+    4300034: Rectangle050
+    4300036: Rectangle051
+    4300038: Rectangle052
+    4300040: Rectangle053
+    4300042: Cylinder022
+    4300044: Cylinder021
+    4300046: Box025
+    4300048: Box026
+    4300050: Cylinder016
+    4300052: Cylinder020
+    4300054: Cylinder017
+    4300056: Cylinder018
+    4300058: Cylinder019
+    4300060: Cylinder024
+    4300062: Box023
+    4300064: Box016
+    4300066: Box024
+    4300068: Box027
+    4300070: Cylinder025
+    4300072: Cylinder035
+    4300074: Box029
+    4300076: Box030
+    4300078: Box031
+    4300080: Plane006
+    4300082: Box032
+    4300084: Box033
+    4300086: Plane007
+    4300088: Box034
+    4300090: Box035
+    4300092: Rectangle054
+    4300094: Cylinder026
+    4300096: Rectangle055
+    4300098: Rectangle056
+    4300100: Rectangle057
+    4300102: Cylinder028
+    4300104: Rectangle058
+    4300106: Rectangle059
+    4300108: Rectangle060
+    4300110: Rectangle061
+    4300112: Cylinder027
+    4300114: Cylinder034
+    4300116: Box037
+    4300118: Cylinder033
+    4300120: Box039
+    4300122: Cylinder029
+    4300124: Cylinder032
+    4300126: Cylinder030
+    4300128: Cylinder031
+    4300130: Cylinder036
+    4300132: Box036
+    4300134: Box028
+    4300136: Box038
+    4300138: Box040
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #12'
+    second: {fileID: 2100000, guid: fdfeee3f21eb1a04ba98bbfbdaffe2e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Material #12\u0438"
+    second: {fileID: 2100000, guid: 8f3c929b66cb70148ad92701731cf913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Material #12\u0438\u0442"
+    second: {fileID: 2100000, guid: 5029fc58fe204484fa4ddfe7f4f15562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2d'
+    second: {fileID: 2100000, guid: 749560c0d26ec1742854f266c48bfbc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 4e8f858997cff6a4b8f5a5d7b105ac74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #694'
+    second: {fileID: 2100000, guid: f8e705511e4cf1341b5b39236647bc7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #696'
+    second: {fileID: 2100000, guid: 1aef823249153ab418c91dcbafef8185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #701'
+    second: {fileID: 2100000, guid: 298c9de66612b9e4fb1046435abbf4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #703'
+    second: {fileID: 2100000, guid: eb8c8f0d6a7ebf14facfbc102d7f6212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #705'
+    second: {fileID: 2100000, guid: 886e3875239f10541bbdcf5a5c894299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #706'
+    second: {fileID: 2100000, guid: 2fd23dd98819cdc4aa373ed97f64bcc6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0_bbb7_23868fe9_XL_
+    second: {fileID: 2800000, guid: dc420efdd9a7a50468f5574db0ac4533, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "0_bbb7_23868fe9_XL\u0432_"
+    second: {fileID: 2800000, guid: 7e103d9ad0afd0246aedb671510a3b1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: 440bf512c78391f498e6e4244ffab763, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1_
+    second: {fileID: 2800000, guid: 6d1eb376ad5158044b4050dd816bfd2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 51
+    second: {fileID: 2800000, guid: 04d0483d7ddcd5846a4dcfc3b8c154ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "5_11\u0430"
+    second: {fileID: 2800000, guid: da97873ed6d738b47bc8167e40a8e971, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5_3_
+    second: {fileID: 2800000, guid: e567043174ffdd14aae836045ef6aa2e, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

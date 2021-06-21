@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 3d946a56352b59047811f1a78e0bb22d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2.2. Drawer_001
+    100002: 2.2. Drawer_002
+    100004: 2.2. Drawer_003
+    100006: 2.2. Plint_001
+    100008: 2.2. Top_001
+    100010: //RootNode
+    100012: F 150.390.20_001
+    100014: F 150.390.20_002
+    100016: F 150.390.20_003
+    100018: F 616.390.20_001
+    100020: F 616.390.20_002
+    100022: F 616.390.20_003
+    100024: GG36-G0005_001
+    100026: GG36-G0005_002
+    100028: GG36-G0005_003
+    100030: GG36-G0005_004
+    100032: GG36-G0005_005
+    100034: GG36-G0005_006
+    100036: H 250.379.17_001
+    100038: H 250.778.17_001
+    100040: H 265.381.17_001
+    100042: H 265.780.17_001
+    100044: V 146.265.17_001
+    100046: V 775.265.17_001
+    100048: V 775.281.20_001
+    100050: V 775.281.20_002
+    400000: 2.2. Drawer_001
+    400002: 2.2. Drawer_002
+    400004: 2.2. Drawer_003
+    400006: 2.2. Plint_001
+    400008: 2.2. Top_001
+    400010: //RootNode
+    400012: F 150.390.20_001
+    400014: F 150.390.20_002
+    400016: F 150.390.20_003
+    400018: F 616.390.20_001
+    400020: F 616.390.20_002
+    400022: F 616.390.20_003
+    400024: GG36-G0005_001
+    400026: GG36-G0005_002
+    400028: GG36-G0005_003
+    400030: GG36-G0005_004
+    400032: GG36-G0005_005
+    400034: GG36-G0005_006
+    400036: H 250.379.17_001
+    400038: H 250.778.17_001
+    400040: H 265.381.17_001
+    400042: H 265.780.17_001
+    400044: V 146.265.17_001
+    400046: V 775.265.17_001
+    400048: V 775.281.20_001
+    400050: V 775.281.20_002
+    2100000: F43_005 Ice Birch Honey1
+    2100002: Metal Brass1
+    2300000: 2.2. Drawer_001
+    2300002: 2.2. Drawer_002
+    2300004: 2.2. Drawer_003
+    2300006: 2.2. Plint_001
+    2300008: 2.2. Top_001
+    2300010: F 150.390.20_001
+    2300012: F 150.390.20_002
+    2300014: F 150.390.20_003
+    2300016: F 616.390.20_001
+    2300018: F 616.390.20_002
+    2300020: F 616.390.20_003
+    2300022: GG36-G0005_001
+    2300024: GG36-G0005_002
+    2300026: GG36-G0005_003
+    2300028: GG36-G0005_004
+    2300030: GG36-G0005_005
+    2300032: GG36-G0005_006
+    2300034: H 250.379.17_001
+    2300036: H 250.778.17_001
+    2300038: H 265.381.17_001
+    2300040: H 265.780.17_001
+    2300042: V 146.265.17_001
+    2300044: V 775.265.17_001
+    2300046: V 775.281.20_001
+    2300048: V 775.281.20_002
+    3300000: 2.2. Drawer_001
+    3300002: 2.2. Drawer_002
+    3300004: 2.2. Drawer_003
+    3300006: 2.2. Plint_001
+    3300008: 2.2. Top_001
+    3300010: F 150.390.20_001
+    3300012: F 150.390.20_002
+    3300014: F 150.390.20_003
+    3300016: F 616.390.20_001
+    3300018: F 616.390.20_002
+    3300020: F 616.390.20_003
+    3300022: GG36-G0005_001
+    3300024: GG36-G0005_002
+    3300026: GG36-G0005_003
+    3300028: GG36-G0005_004
+    3300030: GG36-G0005_005
+    3300032: GG36-G0005_006
+    3300034: H 250.379.17_001
+    3300036: H 250.778.17_001
+    3300038: H 265.381.17_001
+    3300040: H 265.780.17_001
+    3300042: V 146.265.17_001
+    3300044: V 775.265.17_001
+    3300046: V 775.281.20_001
+    3300048: V 775.281.20_002
+    4300000: V 775.281.20_002
+    4300002: V 775.265.17_001
+    4300004: V 775.281.20_001
+    4300006: GG36-G0005_006
+    4300008: GG36-G0005_005
+    4300010: GG36-G0005_004
+    4300012: GG36-G0005_003
+    4300014: GG36-G0005_002
+    4300016: GG36-G0005_001
+    4300018: F 616.390.20_003
+    4300020: F 616.390.20_002
+    4300022: F 616.390.20_001
+    4300024: F 150.390.20_003
+    4300026: F 150.390.20_002
+    4300028: F 150.390.20_001
+    4300030: 2.2. Drawer_003
+    4300032: 2.2. Drawer_002
+    4300034: 2.2. Drawer_001
+    4300036: V 146.265.17_001
+    4300038: 2.2. Top_001
+    4300040: H 250.778.17_001
+    4300042: H 250.379.17_001
+    4300044: H 265.780.17_001
+    4300046: H 265.381.17_001
+    4300048: 2.2. Plint_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

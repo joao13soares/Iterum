@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 5b1e1a84d726cd44ea668d3db7395f6d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base
+    100002: Drawer01
+    100004: Drawer02
+    100006: Drawers
+    100008: Handle
+    100010: Handle Base
+    100012: Handle Small
+    100014: Plywood Back
+    100016: Slide01
+    100018: Slide02
+    100020: Slides
+    100022: Structure
+    100024: //RootNode
+    400000: Base
+    400002: Drawer01
+    400004: Drawer02
+    400006: Drawers
+    400008: Handle
+    400010: Handle Base
+    400012: Handle Small
+    400014: Plywood Back
+    400016: Slide01
+    400018: Slide02
+    400020: Slides
+    400022: Structure
+    400024: //RootNode
+    2100000: Wood
+    2100002: Metal
+    2300000: Base
+    2300002: Drawer01
+    2300004: Drawer02
+    2300006: Handle Base
+    2300008: Handle Small
+    2300010: Plywood Back
+    2300012: Slide01
+    2300014: Slide02
+    2300016: Structure
+    3300000: Base
+    3300002: Drawer01
+    3300004: Drawer02
+    3300006: Handle Base
+    3300008: Handle Small
+    3300010: Plywood Back
+    3300012: Slide01
+    3300014: Slide02
+    3300016: Structure
+    4300000: Plywood Back
+    4300002: Base
+    4300004: Structure
+    4300006: Handle Small
+    4300008: Handle Base
+    4300010: Slide01
+    4300012: Slide02
+    4300014: Drawer02
+    4300016: Drawer01
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 21fd5478ff571e04fb323316acbd6b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: c64f6cb5cd816a04195ddc70605eae59, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Scratch
+    second: {fileID: 2800000, guid: 6c90f8c04c770cf438f47fa137959484, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2800000, guid: dcdd83aa827578d47a912e83d3b20c9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood-Reflect
+    second: {fileID: 2800000, guid: 018cf6b0ad0520d45aeb153f5d8c4905, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: e2825484a65a50c419f6ee8b83aa6028
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: 001
+    100004: 002
+    100006: Bathroom Floor
+    100008: Bathroom Floor001
+    100010: Bathroom Upper Walls
+    100012: Bathroom Upper Walls001
+    100014: Box001
+    100016: Box005
+    100018: Box016
+    100020: Box017
+    100022: //RootNode
+    100024: Hallway's Floor
+    100026: Kid's Bedroom Floor
+    100028: Kid's Bedroom Wall Details
+    100030: Kid's Bedroom Walls
+    100032: Kitchen's Wall Details
+    100034: Kitchen's Walls
+    100036: Line004
+    100038: Line008
+    100040: Line015
+    100042: Line113
+    100044: Line114
+    100046: Line115
+    100048: Line116
+    100050: Line117
+    100052: Line118
+    100054: Line119
+    100056: Line120
+    100058: Line121
+    100060: Line122
+    100062: Line134
+    100064: Line136
+    100066: Line137
+    100068: Line138
+    100070: Line139
+    100072: Line140
+    100074: Line141
+    100076: Line142
+    100078: Livingroom's Floor
+    100080: Livingroom's Wall Details
+    100082: Livingroom's Walls
+    100084: Object
+    100086: Object001
+    100088: Object001 1
+    100090: Object011
+    100092: Object012
+    100094: Object013
+    100096: Object015
+    100098: Object016
+    100100: Object017
+    100102: Object046
+    100104: Object107
+    100106: Object108
+    100108: Object109
+    100110: Object110
+    100112: Object111
+    100114: Object112
+    100116: Object113
+    100118: Object114
+    100120: Object115
+    100122: Object116
+    100124: Object117
+    100126: Object118
+    100128: Object119
+    100130: Object120
+    100132: Object130
+    100134: Object131
+    100136: Object132
+    100138: Object133
+    100140: Object134
+    100142: Object135
+    100144: Object136
+    100146: Object137
+    100148: Object138
+    100150: Object159
+    100152: Object160
+    100154: Object161
+    100156: Object163
+    100158: Object165
+    100160: Object166
+    100162: Object167
+    100164: Object170
+    100166: Object171
+    100168: Object172
+    100170: Object173
+    100172: Object174
+    100174: Object175
+    100176: Object176
+    100178: Object177
+    100180: Object178
+    100182: Object179
+    100184: Object180
+    100186: Object181
+    100188: Object183
+    100190: Object185
+    100192: Object187
+    100194: Object191
+    100196: Object192
+    100198: Object193
+    100200: Object194
+    100202: Object195
+    100204: Object196
+    100206: Object197
+    100208: Object198
+    100210: Object199
+    100212: Object200
+    100214: Object201
+    100216: Object202
+    100218: Object203
+    100220: Object204
+    100222: Object205
+    100224: Object206
+    100226: Object207
+    100228: Object208
+    100230: Object209
+    100232: Object210
+    100234: Object211
+    100236: Object212
+    100238: Object213
+    100240: Object214
+    100242: Object215
+    100244: Object216
+    100246: Object217
+    100248: Object218
+    100250: Object219
+    100252: Object220
+    100254: Object221
+    100256: Object222
+    100258: Object223
+    100260: Object224
+    100262: Object225
+    100264: Object226
+    100266: Parent's Bedroom Floor
+    100268: Parent's Bedroom Wall Detais
+    100270: Parent's Bedroom Walls
+    100272: Particle View 01
+    100274: Particle View 01 1
+    100276: Particle View 01 2
+    100278: Particle View 01 3
+    100280: Particle View 01 4
+    100282: Particle View 01 5
+    100284: Particle View 01 6
+    100286: Plane002
+    100288: Stairs_Group
+    100290: Stairs_Low
+    100292: Window
+    100294: Window 002
+    100296: Window 003
+    100298: Window 1
+    100300: Window001
+    100302: Window002
+    100304: Window_Element_132
+    100306: Window_Element_133
+    100308: Window_Element_134
+    100310: Window_Element_135
+    100312: Window_Element_145_Detached43
+    100314: Window_Element_72
+    100316: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100318: "\xD7\xFE\xD7\xFC"
+    400000: ' 1'
+    400002: 001
+    400004: 002
+    400006: Bathroom Floor
+    400008: Bathroom Floor001
+    400010: Bathroom Upper Walls
+    400012: Bathroom Upper Walls001
+    400014: Box001
+    400016: Box005
+    400018: Box016
+    400020: Box017
+    400022: //RootNode
+    400024: Hallway's Floor
+    400026: Kid's Bedroom Floor
+    400028: Kid's Bedroom Wall Details
+    400030: Kid's Bedroom Walls
+    400032: Kitchen's Wall Details
+    400034: Kitchen's Walls
+    400036: Line004
+    400038: Line008
+    400040: Line015
+    400042: Line113
+    400044: Line114
+    400046: Line115
+    400048: Line116
+    400050: Line117
+    400052: Line118
+    400054: Line119
+    400056: Line120
+    400058: Line121
+    400060: Line122
+    400062: Line134
+    400064: Line136
+    400066: Line137
+    400068: Line138
+    400070: Line139
+    400072: Line140
+    400074: Line141
+    400076: Line142
+    400078: Livingroom's Floor
+    400080: Livingroom's Wall Details
+    400082: Livingroom's Walls
+    400084: Object
+    400086: Object001
+    400088: Object001 1
+    400090: Object011
+    400092: Object012
+    400094: Object013
+    400096: Object015
+    400098: Object016
+    400100: Object017
+    400102: Object046
+    400104: Object107
+    400106: Object108
+    400108: Object109
+    400110: Object110
+    400112: Object111
+    400114: Object112
+    400116: Object113
+    400118: Object114
+    400120: Object115
+    400122: Object116
+    400124: Object117
+    400126: Object118
+    400128: Object119
+    400130: Object120
+    400132: Object130
+    400134: Object131
+    400136: Object132
+    400138: Object133
+    400140: Object134
+    400142: Object135
+    400144: Object136
+    400146: Object137
+    400148: Object138
+    400150: Object159
+    400152: Object160
+    400154: Object161
+    400156: Object163
+    400158: Object165
+    400160: Object166
+    400162: Object167
+    400164: Object170
+    400166: Object171
+    400168: Object172
+    400170: Object173
+    400172: Object174
+    400174: Object175
+    400176: Object176
+    400178: Object177
+    400180: Object178
+    400182: Object179
+    400184: Object180
+    400186: Object181
+    400188: Object183
+    400190: Object185
+    400192: Object187
+    400194: Object191
+    400196: Object192
+    400198: Object193
+    400200: Object194
+    400202: Object195
+    400204: Object196
+    400206: Object197
+    400208: Object198
+    400210: Object199
+    400212: Object200
+    400214: Object201
+    400216: Object202
+    400218: Object203
+    400220: Object204
+    400222: Object205
+    400224: Object206
+    400226: Object207
+    400228: Object208
+    400230: Object209
+    400232: Object210
+    400234: Object211
+    400236: Object212
+    400238: Object213
+    400240: Object214
+    400242: Object215
+    400244: Object216
+    400246: Object217
+    400248: Object218
+    400250: Object219
+    400252: Object220
+    400254: Object221
+    400256: Object222
+    400258: Object223
+    400260: Object224
+    400262: Object225
+    400264: Object226
+    400266: Parent's Bedroom Floor
+    400268: Parent's Bedroom Wall Detais
+    400270: Parent's Bedroom Walls
+    400272: Particle View 01
+    400274: Particle View 01 1
+    400276: Particle View 01 2
+    400278: Particle View 01 3
+    400280: Particle View 01 4
+    400282: Particle View 01 5
+    400284: Particle View 01 6
+    400286: Plane002
+    400288: Stairs_Group
+    400290: Stairs_Low
+    400292: Window
+    400294: Window 002
+    400296: Window 003
+    400298: Window 1
+    400300: Window001
+    400302: Window002
+    400304: Window_Element_132
+    400306: Window_Element_133
+    400308: Window_Element_134
+    400310: Window_Element_135
+    400312: Window_Element_145_Detached43
+    400314: Window_Element_72
+    400316: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400318: "\xD7\xFE\xD7\xFC"
+    2100000: No Name
+    2100002: 07 - Default
+    2100004: 01 - Default
+    2100006: 'Material #14'
+    2100008: Plastic
+    2100010: lambert1
+    2100012: 'Material #26'
+    2100014: Glass
+    2100016: Glass Window (Interior_Exterior)
+    2300000: ' 1'
+    2300002: 001
+    2300004: 002
+    2300006: Bathroom Floor
+    2300008: Bathroom Floor001
+    2300010: Bathroom Upper Walls
+    2300012: Bathroom Upper Walls001
+    2300014: Box001
+    2300016: Box005
+    2300018: Box016
+    2300020: Box017
+    2300022: Hallway's Floor
+    2300024: Kid's Bedroom Floor
+    2300026: Kid's Bedroom Wall Details
+    2300028: Kid's Bedroom Walls
+    2300030: Kitchen's Wall Details
+    2300032: Kitchen's Walls
+    2300034: Line004
+    2300036: Line015
+    2300038: Line134
+    2300040: Line136
+    2300042: Line137
+    2300044: Line138
+    2300046: Line139
+    2300048: Line140
+    2300050: Line141
+    2300052: Line142
+    2300054: Livingroom's Floor
+    2300056: Livingroom's Wall Details
+    2300058: Livingroom's Walls
+    2300060: Object
+    2300062: Object001
+    2300064: Object013
+    2300066: Object015
+    2300068: Object016
+    2300070: Object017
+    2300072: Object107
+    2300074: Object108
+    2300076: Object109
+    2300078: Object110
+    2300080: Object111
+    2300082: Object112
+    2300084: Object113
+    2300086: Object114
+    2300088: Object115
+    2300090: Object116
+    2300092: Object117
+    2300094: Object118
+    2300096: Object130
+    2300098: Object131
+    2300100: Object132
+    2300102: Object133
+    2300104: Object134
+    2300106: Object135
+    2300108: Object136
+    2300110: Object137
+    2300112: Object138
+    2300114: Object159
+    2300116: Object160
+    2300118: Object161
+    2300120: Object163
+    2300122: Object165
+    2300124: Object166
+    2300126: Object167
+    2300128: Object170
+    2300130: Object171
+    2300132: Object172
+    2300134: Object173
+    2300136: Object174
+    2300138: Object175
+    2300140: Object176
+    2300142: Object177
+    2300144: Object178
+    2300146: Object179
+    2300148: Object180
+    2300150: Object181
+    2300152: Object183
+    2300154: Object185
+    2300156: Object187
+    2300158: Object191
+    2300160: Object192
+    2300162: Object193
+    2300164: Object194
+    2300166: Object195
+    2300168: Object196
+    2300170: Object197
+    2300172: Object198
+    2300174: Object199
+    2300176: Object200
+    2300178: Object201
+    2300180: Object202
+    2300182: Object203
+    2300184: Object204
+    2300186: Object205
+    2300188: Object206
+    2300190: Object207
+    2300192: Object208
+    2300194: Object211
+    2300196: Object212
+    2300198: Object213
+    2300200: Object214
+    2300202: Object217
+    2300204: Object218
+    2300206: Object219
+    2300208: Object220
+    2300210: Object221
+    2300212: Object222
+    2300214: Object223
+    2300216: Object224
+    2300218: Object225
+    2300220: Object226
+    2300222: Parent's Bedroom Floor
+    2300224: Parent's Bedroom Wall Detais
+    2300226: Parent's Bedroom Walls
+    2300228: Plane002
+    2300230: Stairs_Low
+    2300232: Window
+    2300234: Window001
+    2300236: Window002
+    2300238: Window_Element_132
+    2300240: Window_Element_133
+    2300242: Window_Element_134
+    2300244: Window_Element_135
+    2300246: Window_Element_145_Detached43
+    2300248: Window_Element_72
+    3300000: ' 1'
+    3300002: 001
+    3300004: 002
+    3300006: Bathroom Floor
+    3300008: Bathroom Floor001
+    3300010: Bathroom Upper Walls
+    3300012: Bathroom Upper Walls001
+    3300014: Box001
+    3300016: Box005
+    3300018: Box016
+    3300020: Box017
+    3300022: Hallway's Floor
+    3300024: Kid's Bedroom Floor
+    3300026: Kid's Bedroom Wall Details
+    3300028: Kid's Bedroom Walls
+    3300030: Kitchen's Wall Details
+    3300032: Kitchen's Walls
+    3300034: Line004
+    3300036: Line015
+    3300038: Line134
+    3300040: Line136
+    3300042: Line137
+    3300044: Line138
+    3300046: Line139
+    3300048: Line140
+    3300050: Line141
+    3300052: Line142
+    3300054: Livingroom's Floor
+    3300056: Livingroom's Wall Details
+    3300058: Livingroom's Walls
+    3300060: Object
+    3300062: Object001
+    3300064: Object013
+    3300066: Object015
+    3300068: Object016
+    3300070: Object017
+    3300072: Object107
+    3300074: Object108
+    3300076: Object109
+    3300078: Object110
+    3300080: Object111
+    3300082: Object112
+    3300084: Object113
+    3300086: Object114
+    3300088: Object115
+    3300090: Object116
+    3300092: Object117
+    3300094: Object118
+    3300096: Object130
+    3300098: Object131
+    3300100: Object132
+    3300102: Object133
+    3300104: Object134
+    3300106: Object135
+    3300108: Object136
+    3300110: Object137
+    3300112: Object138
+    3300114: Object159
+    3300116: Object160
+    3300118: Object161
+    3300120: Object163
+    3300122: Object165
+    3300124: Object166
+    3300126: Object167
+    3300128: Object170
+    3300130: Object171
+    3300132: Object172
+    3300134: Object173
+    3300136: Object174
+    3300138: Object175
+    3300140: Object176
+    3300142: Object177
+    3300144: Object178
+    3300146: Object179
+    3300148: Object180
+    3300150: Object181
+    3300152: Object183
+    3300154: Object185
+    3300156: Object187
+    3300158: Object191
+    3300160: Object192
+    3300162: Object193
+    3300164: Object194
+    3300166: Object195
+    3300168: Object196
+    3300170: Object197
+    3300172: Object198
+    3300174: Object199
+    3300176: Object200
+    3300178: Object201
+    3300180: Object202
+    3300182: Object203
+    3300184: Object204
+    3300186: Object205
+    3300188: Object206
+    3300190: Object207
+    3300192: Object208
+    3300194: Object211
+    3300196: Object212
+    3300198: Object213
+    3300200: Object214
+    3300202: Object217
+    3300204: Object218
+    3300206: Object219
+    3300208: Object220
+    3300210: Object221
+    3300212: Object222
+    3300214: Object223
+    3300216: Object224
+    3300218: Object225
+    3300220: Object226
+    3300222: Parent's Bedroom Floor
+    3300224: Parent's Bedroom Wall Detais
+    3300226: Parent's Bedroom Walls
+    3300228: Plane002
+    3300230: Stairs_Low
+    3300232: Window
+    3300234: Window001
+    3300236: Window002
+    3300238: Window_Element_132
+    3300240: Window_Element_133
+    3300242: Window_Element_134
+    3300244: Window_Element_135
+    3300246: Window_Element_145_Detached43
+    3300248: Window_Element_72
+    4300000: Line004
+    4300002: Object001
+    4300004: Box001
+    4300006: Box005
+    4300008: Line015
+    4300010: Window_Element_145_Detached43
+    4300012: Window_Element_132
+    4300014: Stairs_Low
+    4300016: Plane002
+    4300018: Object013
+    4300020: Object015
+    4300022: Object016
+    4300024: Object017
+    4300026: Window_Element_133
+    4300028: Livingroom's Floor
+    4300030: Livingroom's Walls
+    4300032: Livingroom's Wall Details
+    4300034: Object109
+    4300036: Object107
+    4300038: Object108
+    4300040: Object110
+    4300042: Window
+    4300044: Parent's Bedroom Walls
+    4300046: Parent's Bedroom Wall Detais
+    4300048: Parent's Bedroom Floor
+    4300050: Bathroom Upper Walls
+    4300052: Bathroom Floor
+    4300054: Kid's Bedroom Floor
+    4300056: Kid's Bedroom Walls
+    4300058: Kid's Bedroom Wall Details
+    4300060: Kitchen's Wall Details
+    4300062: Object114
+    4300064: Object117
+    4300066: Object111
+    4300068: Object112
+    4300070: Object113
+    4300072: Object118
+    4300074: Object115
+    4300076: Object116
+    4300078: Window_Element_72
+    4300080: Kitchen's Walls
+    4300082: Hallway's Floor
+    4300084: Box016
+    4300086: Object
+    4300088: Box017
+    4300090: Object130
+    4300092: Object131
+    4300094: Object132
+    4300096: Object133
+    4300098: Object134
+    4300100: Object135
+    4300102: Object136
+    4300104: Object137
+    4300106: Object138
+    4300108: Object159
+    4300110: Object160
+    4300112: Object161
+    4300114: Object163
+    4300116: Object165
+    4300118: Line134
+    4300120: Object166
+    4300122: Object167
+    4300124: Line136
+    4300126: Object170
+    4300128: Object171
+    4300130: Line137
+    4300132: Object172
+    4300134: Object173
+    4300136: Line138
+    4300138: Object174
+    4300140: Object175
+    4300142: Line139
+    4300144: Object176
+    4300146: Object177
+    4300148: Line140
+    4300150: Object178
+    4300152: Object179
+    4300154: Line141
+    4300156: Object180
+    4300158: Object181
+    4300160: Object183
+    4300162: Object185
+    4300164: Object187
+    4300168: Object191
+    4300170: Object192
+    4300172: Object193
+    4300174: Object194
+    4300176: Object195
+    4300178: Object196
+    4300180: Object197
+    4300182: Object198
+    4300184: Object199
+    4300186: Object200
+    4300188: Object201
+    4300190: Window001
+    4300192: Object202
+    4300194: Object203
+    4300196: Object204
+    4300198: Object205
+    4300200: Object206
+    4300202: Object207
+    4300204: Object208
+    4300206: Window002
+    4300208: 001
+    4300210: Object211
+    4300212: Object212
+    4300214: Object213
+    4300216: Object214
+    4300218: Window_Element_134
+    4300220: 002
+    4300222: Object217
+    4300224: Object218
+    4300226: Object219
+    4300228: Object220
+    4300230: Window_Element_135
+    4300232: Object221
+    4300234: Object222
+    4300236: Bathroom Floor001
+    4300238: Bathroom Upper Walls001
+    4300240: Line142
+    4300242: Object223
+    4300244: Object224
+    4300246: Object225
+    4300248: Object226
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

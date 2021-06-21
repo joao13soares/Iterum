@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 99bfa4391fd60ee4685c0e8f3835a4aa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bathroom
+    100002: Bathroom Door
+    100004: Bathroom Door Frame
+    100006: Bathroom's Floor
+    100008: Bathroom's Floor 1
+    100010: Bathroom's Lower Walls
+    100012: Bathroom's Middle Walls
+    100014: Bathroom's Upper Walls
+    100016: Door
+    100018: Door 1
+    100020: Door 2
+    100022: Door 3
+    100024: Door 4
+    100026: Door 5
+    100028: Door 6
+    100030: Door 7
+    100032: Exit Door
+    100034: Exit Door Frame
+    100036: //RootNode
+    100038: Hallway
+    100040: Hallway Floor
+    100042: Hallway Lower Walls
+    100044: Hallway Middle Walls
+    100046: Hallway Roof
+    100048: Hallway Upper Walls
+    100050: Handle
+    100052: Handle 1
+    100054: Handle 2
+    100056: Handle 3
+    100058: Handle 4
+    100060: Handle 5
+    100062: Handle 6
+    100064: Handle 7
+    100066: Kid Door Frame
+    100068: Kid's Bedroom
+    100070: Kid's Bedroom Floor
+    100072: Kid's Bedroom Roof
+    100074: Kid's Bedroom Wall Details
+    100076: Kid's Bedroom Walls
+    100078: Kid's Door
+    100080: Kitchen
+    100082: Kitchen Door
+    100084: Kitchen Door Frame
+    100086: Kitchen's Floor
+    100088: Kitchen's Roof
+    100090: Kitchen's Wall Details
+    100092: Kitchen's Walls
+    100094: Livingroom
+    100096: Livingroom Door
+    100098: Livingroom Door Frame
+    100100: Livingroom's Floor
+    100102: Livingroom's Roof
+    100104: Livingroom's Wall Details
+    100106: Livingroom's Walls
+    100108: Loop Door
+    100110: Loop Door Frame
+    100112: Loop Room
+    100114: Lower Wall
+    100116: Lower Walls
+    100118: Lower Walls 1
+    100120: Lower Walls 2
+    100122: Lower Walls 3
+    100124: Lower Walls 4
+    100126: Main Door
+    100128: Main Door Frame
+    100130: Middle Wall
+    100132: Middle Walls
+    100134: Middle Walls 1
+    100136: Middle Walls 2
+    100138: Middle Walls 3
+    100140: Middle Walls 4
+    100142: Mirror
+    100144: Mirror's Door
+    100146: Mirror's Door Frame
+    100148: Mirror's Door Handle
+    100150: Mirror's Floor
+    100152: Mirror's Lower Walls
+    100154: Mirror's Middle Walls
+    100156: Mirror's Roof
+    100158: Mirror's Upper Walls
+    100160: Object209
+    100162: Object210
+    100164: Object211
+    100166: Object212
+    100168: Object214
+    100170: Object248
+    100172: Object249
+    100174: Object259
+    100176: Object260
+    100178: Object264
+    100180: Object265
+    100182: Object266
+    100184: Object267
+    100186: Object268
+    100188: Object269
+    100190: Object270
+    100192: Object271
+    100194: Object272
+    100196: Object273
+    100198: Object274
+    100200: Object275
+    100202: Object276
+    100204: Object277
+    100206: Object278
+    100208: Object279
+    100210: Object280
+    100212: Object281
+    100214: Object282
+    100216: Object283
+    100218: Object284
+    100220: Object285
+    100222: Object286
+    100224: Object287
+    100226: Object288
+    100228: Object289
+    100230: Object290
+    100232: Object291
+    100234: Parent Door Frame
+    100236: Parent's Bedroom
+    100238: Parent's Bedroom Floor
+    100240: Parent's Bedroom Roof
+    100242: Parent's Bedroom Wall Detais
+    100244: Parent's Bedroom Walls
+    100246: Parent's Door
+    100248: Particle View 01
+    100250: Particle View 01 1
+    100252: Particle View 01 2
+    100254: Particle View 01 3
+    100256: Particle View 01 4
+    100258: Particle View 01 5
+    100260: Particle View 01 6
+    100262: Pilar 1
+    100264: Pilar 2
+    100266: Pilar 3
+    100268: Pilar 4
+    100270: Pilar 5
+    100272: Pilar 6
+    100274: Room
+    100276: Staircase
+    100278: Stairs_Low
+    100280: Upper Wall
+    100282: Upper Walls
+    100284: Upper Walls 1
+    100286: Upper Walls 2
+    100288: Upper Walls 3
+    100290: Upper Walls 4
+    100292: Window
+    100294: Window 002
+    100296: Window 004
+    100298: Window 005
+    100300: Window 006
+    100302: Window 007
+    100304: Window 008
+    100306: Window 009
+    100308: Window 010
+    100310: Window 011
+    100312: Window 1
+    100314: Window 2
+    100316: Window 3
+    100318: Window Part
+    100320: Window Part 2
+    100322: Window Part 3
+    100324: Window Part 4
+    100326: Window003
+    100328: Window_Bars
+    100330: Window_Element_134
+    100332: Window_Element_138
+    100334: Window_Element_139
+    100336: Window_Element_140
+    100338: Window_Element_141
+    100340: WindowPart 5
+    400000: Bathroom
+    400002: Bathroom Door
+    400004: Bathroom Door Frame
+    400006: Bathroom's Floor
+    400008: Bathroom's Floor 1
+    400010: Bathroom's Lower Walls
+    400012: Bathroom's Middle Walls
+    400014: Bathroom's Upper Walls
+    400016: Door
+    400018: Door 1
+    400020: Door 2
+    400022: Door 3
+    400024: Door 4
+    400026: Door 5
+    400028: Door 6
+    400030: Door 7
+    400032: Exit Door
+    400034: Exit Door Frame
+    400036: //RootNode
+    400038: Hallway
+    400040: Hallway Floor
+    400042: Hallway Lower Walls
+    400044: Hallway Middle Walls
+    400046: Hallway Roof
+    400048: Hallway Upper Walls
+    400050: Handle
+    400052: Handle 1
+    400054: Handle 2
+    400056: Handle 3
+    400058: Handle 4
+    400060: Handle 5
+    400062: Handle 6
+    400064: Handle 7
+    400066: Kid Door Frame
+    400068: Kid's Bedroom
+    400070: Kid's Bedroom Floor
+    400072: Kid's Bedroom Roof
+    400074: Kid's Bedroom Wall Details
+    400076: Kid's Bedroom Walls
+    400078: Kid's Door
+    400080: Kitchen
+    400082: Kitchen Door
+    400084: Kitchen Door Frame
+    400086: Kitchen's Floor
+    400088: Kitchen's Roof
+    400090: Kitchen's Wall Details
+    400092: Kitchen's Walls
+    400094: Livingroom
+    400096: Livingroom Door
+    400098: Livingroom Door Frame
+    400100: Livingroom's Floor
+    400102: Livingroom's Roof
+    400104: Livingroom's Wall Details
+    400106: Livingroom's Walls
+    400108: Loop Door
+    400110: Loop Door Frame
+    400112: Loop Room
+    400114: Lower Wall
+    400116: Lower Walls
+    400118: Lower Walls 1
+    400120: Lower Walls 2
+    400122: Lower Walls 3
+    400124: Lower Walls 4
+    400126: Main Door
+    400128: Main Door Frame
+    400130: Middle Wall
+    400132: Middle Walls
+    400134: Middle Walls 1
+    400136: Middle Walls 2
+    400138: Middle Walls 3
+    400140: Middle Walls 4
+    400142: Mirror
+    400144: Mirror's Door
+    400146: Mirror's Door Frame
+    400148: Mirror's Door Handle
+    400150: Mirror's Floor
+    400152: Mirror's Lower Walls
+    400154: Mirror's Middle Walls
+    400156: Mirror's Roof
+    400158: Mirror's Upper Walls
+    400160: Object209
+    400162: Object210
+    400164: Object211
+    400166: Object212
+    400168: Object214
+    400170: Object248
+    400172: Object249
+    400174: Object259
+    400176: Object260
+    400178: Object264
+    400180: Object265
+    400182: Object266
+    400184: Object267
+    400186: Object268
+    400188: Object269
+    400190: Object270
+    400192: Object271
+    400194: Object272
+    400196: Object273
+    400198: Object274
+    400200: Object275
+    400202: Object276
+    400204: Object277
+    400206: Object278
+    400208: Object279
+    400210: Object280
+    400212: Object281
+    400214: Object282
+    400216: Object283
+    400218: Object284
+    400220: Object285
+    400222: Object286
+    400224: Object287
+    400226: Object288
+    400228: Object289
+    400230: Object290
+    400232: Object291
+    400234: Parent Door Frame
+    400236: Parent's Bedroom
+    400238: Parent's Bedroom Floor
+    400240: Parent's Bedroom Roof
+    400242: Parent's Bedroom Wall Detais
+    400244: Parent's Bedroom Walls
+    400246: Parent's Door
+    400248: Particle View 01
+    400250: Particle View 01 1
+    400252: Particle View 01 2
+    400254: Particle View 01 3
+    400256: Particle View 01 4
+    400258: Particle View 01 5
+    400260: Particle View 01 6
+    400262: Pilar 1
+    400264: Pilar 2
+    400266: Pilar 3
+    400268: Pilar 4
+    400270: Pilar 5
+    400272: Pilar 6
+    400274: Room
+    400276: Staircase
+    400278: Stairs_Low
+    400280: Upper Wall
+    400282: Upper Walls
+    400284: Upper Walls 1
+    400286: Upper Walls 2
+    400288: Upper Walls 3
+    400290: Upper Walls 4
+    400292: Window
+    400294: Window 002
+    400296: Window 004
+    400298: Window 005
+    400300: Window 006
+    400302: Window 007
+    400304: Window 008
+    400306: Window 009
+    400308: Window 010
+    400310: Window 011
+    400312: Window 1
+    400314: Window 2
+    400316: Window 3
+    400318: Window Part
+    400320: Window Part 2
+    400322: Window Part 3
+    400324: Window Part 4
+    400326: Window003
+    400328: Window_Bars
+    400330: Window_Element_134
+    400332: Window_Element_138
+    400334: Window_Element_139
+    400336: Window_Element_140
+    400338: Window_Element_141
+    400340: WindowPart 5
+    2100000: No Name
+    2100002: lambert1
+    2100004: Wall
+    2100006: Header Wall
+    2100008: Floor
+    2100010: Roof
+    2100012: Rodape
+    2100014: Glass Window (Interior_Exterior)
+    2100016: Plastic
+    2100018: Window 1
+    2100020: Door
+    2100022: Door Handle
+    2100024: DoorThing
+    2100026: Pilar Header 2
+    2100028: Pilar Wall 2
+    2100030: Pilar Rodate 2
+    2100032: 07 - Default
+    2100034: Pilar Wall 1
+    2100036: Pilar Rodate 1
+    2100038: Window2
+    2300000: Bathroom Door Frame
+    2300002: Bathroom's Floor
+    2300004: Bathroom's Floor 1
+    2300006: Bathroom's Lower Walls
+    2300008: Bathroom's Middle Walls
+    2300010: Bathroom's Upper Walls
+    2300012: Door
+    2300014: Door 1
+    2300016: Door 2
+    2300018: Door 3
+    2300020: Door 4
+    2300022: Door 5
+    2300024: Door 6
+    2300026: Door 7
+    2300028: Exit Door Frame
+    2300030: Hallway Floor
+    2300032: Hallway Lower Walls
+    2300034: Hallway Middle Walls
+    2300036: Hallway Roof
+    2300038: Hallway Upper Walls
+    2300040: Handle
+    2300042: Handle 1
+    2300044: Handle 2
+    2300046: Handle 3
+    2300048: Handle 4
+    2300050: Handle 5
+    2300052: Handle 6
+    2300054: Handle 7
+    2300056: Kid Door Frame
+    2300058: Kid's Bedroom Floor
+    2300060: Kid's Bedroom Roof
+    2300062: Kid's Bedroom Wall Details
+    2300064: Kid's Bedroom Walls
+    2300066: Kitchen Door Frame
+    2300068: Kitchen's Floor
+    2300070: Kitchen's Roof
+    2300072: Kitchen's Wall Details
+    2300074: Kitchen's Walls
+    2300076: Livingroom Door Frame
+    2300078: Livingroom's Floor
+    2300080: Livingroom's Roof
+    2300082: Livingroom's Wall Details
+    2300084: Livingroom's Walls
+    2300086: Loop Door Frame
+    2300088: Lower Wall
+    2300090: Lower Walls
+    2300092: Lower Walls 1
+    2300094: Lower Walls 2
+    2300096: Lower Walls 3
+    2300098: Lower Walls 4
+    2300100: Main Door Frame
+    2300102: Middle Wall
+    2300104: Middle Walls
+    2300106: Middle Walls 1
+    2300108: Middle Walls 2
+    2300110: Middle Walls 3
+    2300112: Middle Walls 4
+    2300114: Mirror's Door
+    2300116: Mirror's Door Frame
+    2300118: Mirror's Door Handle
+    2300120: Mirror's Floor
+    2300122: Mirror's Lower Walls
+    2300124: Mirror's Middle Walls
+    2300126: Mirror's Roof
+    2300128: Mirror's Upper Walls
+    2300130: Object211
+    2300132: Object212
+    2300134: Object214
+    2300136: Object266
+    2300138: Object267
+    2300140: Object268
+    2300142: Object271
+    2300144: Object272
+    2300146: Object273
+    2300148: Object276
+    2300150: Object277
+    2300152: Object280
+    2300154: Object281
+    2300156: Object282
+    2300158: Object285
+    2300160: Object286
+    2300162: Object287
+    2300164: Object290
+    2300166: Object291
+    2300168: Parent Door Frame
+    2300170: Parent's Bedroom Floor
+    2300172: Parent's Bedroom Roof
+    2300174: Parent's Bedroom Wall Detais
+    2300176: Parent's Bedroom Walls
+    2300178: Room
+    2300180: Stairs_Low
+    2300182: Upper Wall
+    2300184: Upper Walls
+    2300186: Upper Walls 1
+    2300188: Upper Walls 2
+    2300190: Upper Walls 3
+    2300192: Upper Walls 4
+    2300194: Window Part
+    2300196: Window Part 2
+    2300198: Window Part 3
+    2300200: Window Part 4
+    2300202: Window_Bars
+    2300204: Window_Element_134
+    2300206: Window_Element_138
+    2300208: Window_Element_139
+    2300210: Window_Element_140
+    2300212: Window_Element_141
+    2300214: WindowPart 5
+    3300000: Bathroom Door Frame
+    3300002: Bathroom's Floor
+    3300004: Bathroom's Floor 1
+    3300006: Bathroom's Lower Walls
+    3300008: Bathroom's Middle Walls
+    3300010: Bathroom's Upper Walls
+    3300012: Door
+    3300014: Door 1
+    3300016: Door 2
+    3300018: Door 3
+    3300020: Door 4
+    3300022: Door 5
+    3300024: Door 6
+    3300026: Door 7
+    3300028: Exit Door Frame
+    3300030: Hallway Floor
+    3300032: Hallway Lower Walls
+    3300034: Hallway Middle Walls
+    3300036: Hallway Roof
+    3300038: Hallway Upper Walls
+    3300040: Handle
+    3300042: Handle 1
+    3300044: Handle 2
+    3300046: Handle 3
+    3300048: Handle 4
+    3300050: Handle 5
+    3300052: Handle 6
+    3300054: Handle 7
+    3300056: Kid Door Frame
+    3300058: Kid's Bedroom Floor
+    3300060: Kid's Bedroom Roof
+    3300062: Kid's Bedroom Wall Details
+    3300064: Kid's Bedroom Walls
+    3300066: Kitchen Door Frame
+    3300068: Kitchen's Floor
+    3300070: Kitchen's Roof
+    3300072: Kitchen's Wall Details
+    3300074: Kitchen's Walls
+    3300076: Livingroom Door Frame
+    3300078: Livingroom's Floor
+    3300080: Livingroom's Roof
+    3300082: Livingroom's Wall Details
+    3300084: Livingroom's Walls
+    3300086: Loop Door Frame
+    3300088: Lower Wall
+    3300090: Lower Walls
+    3300092: Lower Walls 1
+    3300094: Lower Walls 2
+    3300096: Lower Walls 3
+    3300098: Lower Walls 4
+    3300100: Main Door Frame
+    3300102: Middle Wall
+    3300104: Middle Walls
+    3300106: Middle Walls 1
+    3300108: Middle Walls 2
+    3300110: Middle Walls 3
+    3300112: Middle Walls 4
+    3300114: Mirror's Door
+    3300116: Mirror's Door Frame
+    3300118: Mirror's Door Handle
+    3300120: Mirror's Floor
+    3300122: Mirror's Lower Walls
+    3300124: Mirror's Middle Walls
+    3300126: Mirror's Roof
+    3300128: Mirror's Upper Walls
+    3300130: Object211
+    3300132: Object212
+    3300134: Object214
+    3300136: Object266
+    3300138: Object267
+    3300140: Object268
+    3300142: Object271
+    3300144: Object272
+    3300146: Object273
+    3300148: Object276
+    3300150: Object277
+    3300152: Object280
+    3300154: Object281
+    3300156: Object282
+    3300158: Object285
+    3300160: Object286
+    3300162: Object287
+    3300164: Object290
+    3300166: Object291
+    3300168: Parent Door Frame
+    3300170: Parent's Bedroom Floor
+    3300172: Parent's Bedroom Roof
+    3300174: Parent's Bedroom Wall Detais
+    3300176: Parent's Bedroom Walls
+    3300178: Room
+    3300180: Stairs_Low
+    3300182: Upper Wall
+    3300184: Upper Walls
+    3300186: Upper Walls 1
+    3300188: Upper Walls 2
+    3300190: Upper Walls 3
+    3300192: Upper Walls 4
+    3300194: Window Part
+    3300196: Window Part 2
+    3300198: Window Part 3
+    3300200: Window Part 4
+    3300202: Window_Bars
+    3300204: Window_Element_134
+    3300206: Window_Element_138
+    3300208: Window_Element_139
+    3300210: Window_Element_140
+    3300212: Window_Element_141
+    3300214: WindowPart 5
+    4300000: Door
+    4300002: Handle
+    4300004: Loop Door Frame
+    4300006: Room
+    4300008: Stairs_Low
+    4300010: Hallway Middle Walls
+    4300012: Hallway Upper Walls
+    4300014: Hallway Floor
+    4300016: Hallway Roof
+    4300018: Hallway Lower Walls
+    4300020: Object211
+    4300022: Object212
+    4300024: Object214
+    4300026: Window_Element_134
+    4300028: Object281
+    4300030: Window_Element_140
+    4300032: Object280
+    4300034: Object282
+    4300036: Door
+    4300038: Handle
+    4300040: Main Door Frame
+    4300042: Object267
+    4300044: Window_Element_138
+    4300046: Object268
+    4300048: Object266
+    4300050: Livingroom Door Frame
+    4300052: Door
+    4300054: Handle
+    4300056: Door
+    4300058: Handle
+    4300060: Parent Door Frame
+    4300062: Door
+    4300064: Handle
+    4300066: Kid Door Frame
+    4300068: Exit Door Frame
+    4300070: Handle
+    4300072: Door
+    4300074: Kitchen Door Frame
+    4300076: Door
+    4300078: Handle
+    4300080: Door
+    4300082: Handle
+    4300084: Bathroom Door Frame
+    4300086: Upper Wall
+    4300088: Middle Wall
+    4300090: Lower Wall
+    4300092: Middle Walls
+    4300094: Upper Walls
+    4300096: Lower Walls
+    4300098: Upper Walls
+    4300100: Middle Walls
+    4300102: Lower Walls
+    4300104: Upper Walls
+    4300106: Middle Walls
+    4300108: Lower Walls
+    4300110: Upper Walls
+    4300112: Middle Walls
+    4300114: Lower Walls
+    4300116: Upper Walls
+    4300118: Middle Walls
+    4300120: Lower Walls
+    4300122: Kid's Bedroom Floor
+    4300124: Kid's Bedroom Walls
+    4300126: Kid's Bedroom Wall Details
+    4300128: Kid's Bedroom Roof
+    4300130: Object285
+    4300132: Object286
+    4300134: Object287
+    4300136: Object290
+    4300138: Object291
+    4300140: Window_Element_141
+    4300142: Object271
+    4300144: Object272
+    4300146: Object273
+    4300148: Object276
+    4300150: Object277
+    4300152: Window_Element_139
+    4300154: Parent's Bedroom Roof
+    4300156: Parent's Bedroom Wall Detais
+    4300158: Parent's Bedroom Floor
+    4300160: Parent's Bedroom Walls
+    4300162: Window Part
+    4300164: Window Part 2
+    4300166: Window Part 3
+    4300168: Window_Bars
+    4300170: Window Part 4
+    4300172: WindowPart 5
+    4300174: Livingroom's Wall Details
+    4300176: Livingroom's Floor
+    4300178: Livingroom's Roof
+    4300180: Livingroom's Walls
+    4300182: Kitchen's Floor
+    4300184: Kitchen's Roof
+    4300186: Kitchen's Wall Details
+    4300188: Kitchen's Walls
+    4300190: Bathroom's Upper Walls
+    4300192: Bathroom's Lower Walls
+    4300194: Bathroom's Floor
+    4300196: Bathroom's Middle Walls
+    4300198: Bathroom's Floor
+    4300200: Mirror's Door Frame
+    4300202: Mirror's Door Handle
+    4300204: Mirror's Middle Walls
+    4300206: Mirror's Roof
+    4300208: Mirror's Lower Walls
+    4300210: Mirror's Upper Walls
+    4300212: Mirror's Floor
+    4300214: Mirror's Door
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 629e665b29a8cdc4bb0b105424a7ff60
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bottom
+    100002: Cylinder035
+    100004: elem
+    100006: element
+    100008: frame_01
+    100010: hinge
+    100012: Letters
+    100014: Object003
+    100016: Object004
+    100018: Object007
+    100020: rivet
+    100022: rivet 1
+    100024: spring
+    100026: Text002
+    100028: Text003
+    100030: top
+    100032: Torus002
+    100034: wheel
+    100036: wick
+    100038: //RootNode
+    400000: bottom
+    400002: Cylinder035
+    400004: elem
+    400006: element
+    400008: frame_01
+    400010: hinge
+    400012: Letters
+    400014: Object003
+    400016: Object004
+    400018: Object007
+    400020: rivet
+    400022: rivet 1
+    400024: spring
+    400026: Text002
+    400028: Text003
+    400030: top
+    400032: Torus002
+    400034: wheel
+    400036: wick
+    400038: //RootNode
+    2100000: No Name
+    2100002: metal_02
+    2100004: metal_03
+    2100006: 06 - Default
+    2100008: metal_04
+    2100010: metal_01
+    2300000: bottom
+    2300002: Cylinder035
+    2300004: elem
+    2300006: element
+    2300008: frame_01
+    2300010: hinge
+    2300012: Letters
+    2300014: Object003
+    2300016: Object004
+    2300018: Object007
+    2300020: rivet
+    2300022: rivet 1
+    2300024: spring
+    2300026: Text002
+    2300028: Text003
+    2300030: top
+    2300032: Torus002
+    2300034: wheel
+    2300036: wick
+    3300000: bottom
+    3300002: Cylinder035
+    3300004: elem
+    3300006: element
+    3300008: frame_01
+    3300010: hinge
+    3300012: Letters
+    3300014: Object003
+    3300016: Object004
+    3300018: Object007
+    3300020: rivet
+    3300022: rivet 1
+    3300024: spring
+    3300026: Text002
+    3300028: Text003
+    3300030: top
+    3300032: Torus002
+    3300034: wheel
+    3300036: wick
+    4300000: Cylinder035
+    4300002: element
+    4300004: wheel
+    4300006: Torus002
+    4300008: wick
+    4300010: Letters
+    4300012: elem
+    4300014: spring
+    4300016: rivet
+    4300018: rivet
+    4300020: Text002
+    4300022: Text003
+    4300024: hinge
+    4300026: bottom
+    4300028: Object003
+    4300030: frame_01
+    4300032: top
+    4300034: Object007
+    4300036: Object004
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: ce4b763e5693f4247b84926c9e96af16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6fb12d9e273ae6041b55d15f8fad660b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_01
+    second: {fileID: 2100000, guid: fb7af7ab2fe9241489aff39ac44da9f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_02
+    second: {fileID: 2100000, guid: 29bac23b43a55fa48993f56f48fd3c8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_03
+    second: {fileID: 2100000, guid: 965bbdeaca00e1c4f9149b42ba3b65ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_04
+    second: {fileID: 2100000, guid: d1a43bcdc65c471459884d53898812b1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

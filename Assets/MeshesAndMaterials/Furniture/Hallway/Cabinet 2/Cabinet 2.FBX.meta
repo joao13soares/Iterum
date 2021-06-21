@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: b615463d8db8d2e4e968ed78d8321386
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cone91
+    100004: Cone92
+    100006: Cone93
+    100008: Cone94
+    100010: Cone95
+    100012: Cone96
+    100014: Cylinder7490
+    100016: Cylinder7491
+    100018: Cylinder7492
+    100020: Cylinder7493
+    100022: Ellipse16
+    100024: Ellipse17
+    100026: Ellipse18
+    100028: Group74
+    100030: Line1197949
+    100032: Line1197950
+    100034: Line1197951
+    100036: Line1197952
+    100038: Line1197953
+    100040: Line1197954
+    100042: Line1197955
+    100044: Rectangle694
+    100046: Rectangle695
+    100048: Rectangle696
+    100050: Rectangle697
+    100052: Rectangle698
+    100054: Rectangle699
+    100056: Sphere1451
+    100058: Sphere1452
+    100060: Sphere1453
+    100062: Sphere1454
+    100064: Sphere1455
+    100066: Torus117
+    100068: Torus118
+    100070: Torus119
+    100072: Torus120
+    100074: Torus121
+    100076: Torus122
+    100078: Torus123
+    100080: Torus124
+    100082: Torus125
+    100084: Torus126
+    100086: Torus127
+    100088: Torus128
+    100090: Torus129
+    100092: Torus130
+    100094: Torus131
+    100096: Torus132
+    100098: Torus133
+    100100: Torus134
+    100102: VRayLight01
+    100104: "\u041A\u043B\u044E\u044715"
+    100106: "\u041A\u043B\u044E\u044716"
+    100108: "\u041A\u043B\u044E\u044717"
+    100110: "\u0420\u0443\u0447\u043A\u0430 \u043A\u0443\u0445\u043D\u043D\u043E\u0439
+      \u0434\u0432\u0435\u0440\u043815"
+    100112: "\u043A\u043E\u043C\u043E\u04341002"
+    100114: "\u0443\u0437\u043E\u0440 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u043909"
+    100116: "\u0443\u0437\u043E\u0440 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u043910"
+    400000: //RootNode
+    400002: Cone91
+    400004: Cone92
+    400006: Cone93
+    400008: Cone94
+    400010: Cone95
+    400012: Cone96
+    400014: Cylinder7490
+    400016: Cylinder7491
+    400018: Cylinder7492
+    400020: Cylinder7493
+    400022: Ellipse16
+    400024: Ellipse17
+    400026: Ellipse18
+    400028: Group74
+    400030: Line1197949
+    400032: Line1197950
+    400034: Line1197951
+    400036: Line1197952
+    400038: Line1197953
+    400040: Line1197954
+    400042: Line1197955
+    400044: Rectangle694
+    400046: Rectangle695
+    400048: Rectangle696
+    400050: Rectangle697
+    400052: Rectangle698
+    400054: Rectangle699
+    400056: Sphere1451
+    400058: Sphere1452
+    400060: Sphere1453
+    400062: Sphere1454
+    400064: Sphere1455
+    400066: Torus117
+    400068: Torus118
+    400070: Torus119
+    400072: Torus120
+    400074: Torus121
+    400076: Torus122
+    400078: Torus123
+    400080: Torus124
+    400082: Torus125
+    400084: Torus126
+    400086: Torus127
+    400088: Torus128
+    400090: Torus129
+    400092: Torus130
+    400094: Torus131
+    400096: Torus132
+    400098: Torus133
+    400100: Torus134
+    400102: VRayLight01
+    400104: "\u041A\u043B\u044E\u044715"
+    400106: "\u041A\u043B\u044E\u044716"
+    400108: "\u041A\u043B\u044E\u044717"
+    400110: "\u0420\u0443\u0447\u043A\u0430 \u043A\u0443\u0445\u043D\u043D\u043E\u0439
+      \u0434\u0432\u0435\u0440\u043815"
+    400112: "\u043A\u043E\u043C\u043E\u04341002"
+    400114: "\u0443\u0437\u043E\u0440 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u043909"
+    400116: "\u0443\u0437\u043E\u0440 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u043910"
+    2100000: "\u043F\u0430\u0440\u043A\u0435\u0442"
+    2100002: 'Material #2097629119'
+    2100004: "\u0417\u043E\u043B\u043E\u0442\u0446\u0435"
+    2100006: "Material #209\u0443\u0446\u0443"
+    2100008: "\u0437\u043E\u043B\u043E\u0442\u043E"
+    2300000: Cone91
+    2300002: Cone92
+    2300004: Cone93
+    2300006: Cone94
+    2300008: Cone95
+    2300010: Cone96
+    2300012: Cylinder7490
+    2300014: Cylinder7491
+    2300016: Cylinder7492
+    2300018: Cylinder7493
+    2300020: Ellipse16
+    2300022: Ellipse17
+    2300024: Ellipse18
+    2300026: Line1197949
+    2300028: Line1197950
+    2300030: Line1197951
+    2300032: Rectangle694
+    2300034: Rectangle695
+    2300036: Rectangle696
+    2300038: Rectangle697
+    2300040: Rectangle698
+    2300042: Rectangle699
+    2300044: Sphere1451
+    2300046: Sphere1452
+    2300048: Sphere1453
+    2300050: Sphere1454
+    2300052: Sphere1455
+    2300054: Torus117
+    2300056: Torus118
+    2300058: Torus119
+    2300060: Torus120
+    2300062: Torus121
+    2300064: Torus122
+    2300066: Torus123
+    2300068: Torus124
+    2300070: Torus125
+    2300072: Torus126
+    2300074: Torus127
+    2300076: Torus128
+    2300078: Torus129
+    2300080: Torus130
+    2300082: Torus131
+    2300084: Torus132
+    2300086: Torus133
+    2300088: Torus134
+    3300000: Cone91
+    3300002: Cone92
+    3300004: Cone93
+    3300006: Cone94
+    3300008: Cone95
+    3300010: Cone96
+    3300012: Cylinder7490
+    3300014: Cylinder7491
+    3300016: Cylinder7492
+    3300018: Cylinder7493
+    3300020: Ellipse16
+    3300022: Ellipse17
+    3300024: Ellipse18
+    3300026: Line1197949
+    3300028: Line1197950
+    3300030: Line1197951
+    3300032: Rectangle694
+    3300034: Rectangle695
+    3300036: Rectangle696
+    3300038: Rectangle697
+    3300040: Rectangle698
+    3300042: Rectangle699
+    3300044: Sphere1451
+    3300046: Sphere1452
+    3300048: Sphere1453
+    3300050: Sphere1454
+    3300052: Sphere1455
+    3300054: Torus117
+    3300056: Torus118
+    3300058: Torus119
+    3300060: Torus120
+    3300062: Torus121
+    3300064: Torus122
+    3300066: Torus123
+    3300068: Torus124
+    3300070: Torus125
+    3300072: Torus126
+    3300074: Torus127
+    3300076: Torus128
+    3300078: Torus129
+    3300080: Torus130
+    3300082: Torus131
+    3300084: Torus132
+    3300086: Torus133
+    3300088: Torus134
+    4300000: Rectangle694
+    4300002: Line1197949
+    4300004: Rectangle695
+    4300006: Rectangle696
+    4300008: Rectangle697
+    4300010: Line1197950
+    4300012: Line1197951
+    4300014: Cylinder7490
+    4300016: Cone91
+    4300018: Cone92
+    4300020: Sphere1451
+    4300022: Cone93
+    4300024: Torus117
+    4300026: Cone94
+    4300028: Torus118
+    4300030: Cone95
+    4300032: Sphere1452
+    4300034: Cone96
+    4300036: Torus119
+    4300038: Torus120
+    4300040: Cylinder7491
+    4300042: Sphere1453
+    4300044: Ellipse16
+    4300046: Torus121
+    4300048: Torus122
+    4300050: Cylinder7492
+    4300052: Sphere1454
+    4300054: Ellipse17
+    4300056: Torus123
+    4300058: Torus124
+    4300060: Cylinder7493
+    4300062: Sphere1455
+    4300064: Ellipse18
+    4300066: Rectangle698
+    4300068: Torus125
+    4300070: Torus126
+    4300072: Torus127
+    4300074: Torus128
+    4300076: Torus129
+    4300078: Rectangle699
+    4300080: Torus130
+    4300082: Torus131
+    4300084: Torus132
+    4300086: Torus133
+    4300088: Torus134
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2097629119'
+    second: {fileID: 2100000, guid: b349a7deebb8b7542aab53672a7cb148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Material #209\u0443\u0446\u0443"
+    second: {fileID: 2100000, guid: 20c5253b0d4899448a332ea1af9168d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0417\u043E\u043B\u043E\u0442\u0446\u0435"
+    second: {fileID: 2100000, guid: b8e3f5900c8d5a8418f8fbe25fd420ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0437\u043E\u043B\u043E\u0442\u043E"
+    second: {fileID: 2100000, guid: 75f784e4ed49e724aa1cd439b9e806b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u043F\u0430\u0440\u043A\u0435\u0442"
+    second: {fileID: 2100000, guid: 8de72a4413c7d83449cc5801334064f3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 011
+    second: {fileID: 2800000, guid: 1a0deeea7c6c548429ccdac34fc76df1, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

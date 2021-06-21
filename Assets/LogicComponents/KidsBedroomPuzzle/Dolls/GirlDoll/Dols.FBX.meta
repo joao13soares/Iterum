@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: b563bb81ad1a11a4585ae943b587cade
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder048
+    100002: Cylinder049
+    100004: Dol001
+    100006: //RootNode
+    100008: Komb
+    100010: Line056
+    100012: Line057
+    100014: Pois
+    100016: Roshki
+    100018: Sviter
+    100020: Volos
+    400000: Cylinder048
+    400002: Cylinder049
+    400004: Dol001
+    400006: //RootNode
+    400008: Komb
+    400010: Line056
+    400012: Line057
+    400014: Pois
+    400016: Roshki
+    400018: Sviter
+    400020: Volos
+    2100000: Vors
+    2100002: Kost
+    2100004: Vodolazka
+    2100006: Jeans
+    2100008: Volos
+    2100010: Face
+    2100012: Skin
+    2100014: Lips
+    2100016: L_E
+    2100018: R_E
+    2300000: Cylinder048
+    2300002: Cylinder049
+    2300004: Dol001
+    2300006: Komb
+    2300008: Pois
+    2300010: Roshki
+    2300012: Sviter
+    3300000: Cylinder048
+    3300002: Cylinder049
+    3300004: Dol001
+    3300006: Komb
+    3300008: Pois
+    3300010: Roshki
+    3300012: Sviter
+    4300000: Roshki
+    4300002: Sviter
+    4300004: Komb
+    4300006: Cylinder048
+    4300008: Cylinder049
+    4300010: Dol001
+    4300012: Pois
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: 08f4f67b5ecba7241b575a7500b41fa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jeans
+    second: {fileID: 2100000, guid: 8974a598db0b8254b8043e90cdd4d12d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kost
+    second: {fileID: 2100000, guid: d98573d01d15b8f41b5877e0fe4f7023, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_E
+    second: {fileID: 2100000, guid: ba42c1b61c079d6418476ac670d90209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lips
+    second: {fileID: 2100000, guid: af39599e6d44f804880f78da221b359e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_E
+    second: {fileID: 2100000, guid: 516b6551909665c4f9804c3272241f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: 7415002b35ee1984ebced6a87c9e29e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vodolazka
+    second: {fileID: 2100000, guid: 104bf328fba01be49b4e79f50ea4c924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Volos
+    second: {fileID: 2100000, guid: 2a5fc7e3749803e418f4d57e6a3acbbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vors
+    second: {fileID: 2100000, guid: 6348335f225433c4d9b5dcce513106c3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
