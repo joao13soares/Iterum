@@ -1,6 +1,6 @@
 # Iterum_Unity
 
-<img src = "https://github.com/joao13soares/Iterum/blob/main/Iterum.png" width = "500">
+<img src = "https://github.com/joao13soares/Iterum/blob/main/Iterum.png" width = "850">
 
 Disclaimer: Game made without GitHub experience (thus, no history of previous commits)
 
