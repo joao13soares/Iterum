@@ -13,3 +13,5 @@ This was a university group project made by:
 - João Soares https://github.com/joao13soares
 - Luís Silva https://github.com/oceanncs
 - Paulo Macedo https://github.com/Pauloamm
+
+itch.io: https://pauloamm.itch.io/iterum
