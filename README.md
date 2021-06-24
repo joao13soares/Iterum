@@ -4,7 +4,7 @@
 
 Disclaimer: Game made without GitHub experience (thus, no history of previous commits)
 
-Iterum game made in Unity, as a project for the Games Applied Development university course.
+Iterum is a game made in Unity, as a project for the Games Applied Development university course.
 
 The goal of this project was to develop a full Unity game.
 We decided to implement a Silent Hills P.T. inspired Horror game.
